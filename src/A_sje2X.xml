@@ -1,0 +1,2785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smenob" xml:lang="sme">
+<lics xml:space="preserve">
+<lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+<ref>Lexicographic work done by 
+	 Nils-Henrik Bengtsson, Marianne Eriksson, Inger Fjällås, Eva-Karin Rosenberg, Gry Helen Sivertsen, Valborg Sjaggo, Dagny Skaile, Peter Steggo, Olve Utne and Joshua Wilbur.
+	 With technical support from Giellatekno at UiT. 
+	 Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+<sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors, send your comments to
+     <a>mailto:psdp@gmx.de</a> and/or <a>mailto:giellatekno@uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
+** Generated at: 2019-04-12T16:46:34+02:00
+
+
+</sourcenote>
+</lics>
+<e>
+<lg>
+<l pos="A" psdpDBno="3025">aktalágátj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>alike</t>
+</tg>
+<tg xml:lang="swe">
+<t>likadana</t>
+</tg>
+<tg xml:lang="nob">
+<t>lignende</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="3989">aktamielagatj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>of one opinion</t>
+</tg>
+<tg xml:lang="swe">
+<t>enig</t>
+</tg>
+<tg xml:lang="nob">
+<t>enig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="39">aktasatj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>common, mutual</t>
+</tg>
+<tg xml:lang="swe">
+<t>gemensam</t>
+</tg>
+<tg xml:lang="nob">
+<t>felles</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="5423">allak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>high</t>
+</tg>
+<tg xml:lang="swe">
+<t>hög</t>
+</tg>
+<tg xml:lang="nob">
+<t>høy, høg</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="58">amas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>foreign, strange, unknown</t>
+</tg>
+<tg xml:lang="swe">
+<t>främmande, obekant, okänd</t>
+</tg>
+<tg xml:lang="nob">
+<t>fremmed, ukjent</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="2704">asedis</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>thin</t>
+</tg>
+<tg xml:lang="swe">
+<t>tunn</t>
+</tg>
+<tg xml:lang="nob">
+<t>tynn</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="21">ájdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>only, only one</t>
+</tg>
+<tg xml:lang="swe">
+<t>enda, ende, bara en</t>
+</tg>
+<tg xml:lang="nob">
+<t>eneste, bare en</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="6785">ájles</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>holy</t>
+</tg>
+<tg xml:lang="swe">
+<t>helig</t>
+</tg>
+<tg xml:lang="nob">
+<t>hellig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="3103">ájnas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>urgent, pressing</t>
+</tg>
+<tg xml:lang="swe">
+<t>angelägen</t>
+</tg>
+<tg xml:lang="nob">
+<t>viktig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="49">állbe</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>cheap</t>
+</tg>
+<tg xml:lang="swe">
+<t>billig</t>
+</tg>
+<tg xml:lang="nob">
+<t>billig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="53">állke</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>easy, simple</t>
+</tg>
+<tg xml:lang="swe">
+<t>lätt (lätt att göra något), enkel</t>
+</tg>
+<tg xml:lang="nob">
+<t>enkelt, lett  (å gjøre noe)</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="74">árvas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>generous</t>
+</tg>
+<tg xml:lang="swe">
+<t>givmild, generös</t>
+</tg>
+<tg xml:lang="nob">
+<t>gavmild, generøs</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="3571">ássjálatj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>accessory, participating, involved</t>
+</tg>
+<tg xml:lang="swe">
+<t>delaktig</t>
+</tg>
+<tg xml:lang="nob">
+<t>delaktig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="91">ávtas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>empty, desolate, outlying</t>
+</tg>
+<tg xml:lang="swe">
+<t>ödslig, avsides, öde</t>
+</tg>
+<tg xml:lang="nob">
+<t>øde, avsides</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="101">bahá</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>evil</t>
+</tg>
+<tg xml:lang="swe">
+<t>elak, ond</t>
+</tg>
+<tg xml:lang="nob">
+<t>ondartet</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="4161">balvagis</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>cloudy</t>
+</tg>
+<tg xml:lang="swe">
+<t>molnig</t>
+</tg>
+<tg xml:lang="nob">
+<t>overskyet</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="3130">bargodibme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>unemployed</t>
+</tg>
+<tg xml:lang="swe">
+<t>arbetslös</t>
+</tg>
+<tg xml:lang="nob">
+<t>arbeidsledig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="2512">basske</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>tight, not big enough</t>
+</tg>
+<tg xml:lang="swe">
+<t>trång, för liten</t>
+</tg>
+<tg xml:lang="nob">
+<t>trang, for liten</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="3727">basstel</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>sharp (for a knife, scissors etc.)</t>
+</tg>
+<tg xml:lang="swe">
+<t>vass (om kniv, sax o dyl)</t>
+</tg>
+<tg xml:lang="nob">
+<t>kvass</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="105">báhkas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>warm, hot</t>
+</tg>
+<tg xml:lang="swe">
+<t>varm, het</t>
+</tg>
+<tg xml:lang="nob">
+<t>varm</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="5281">bánedibme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>toothless</t>
+</tg>
+<tg xml:lang="swe">
+<t>tandlös, på väg att bli tandlös</t>
+</tg>
+<tg xml:lang="nob">
+<t>tannløs, holder på å bli tannløs</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="2446">binná</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>a little bit</t>
+</tg>
+<tg xml:lang="swe">
+<t>liten bit, lite grand</t>
+</tg>
+<tg xml:lang="nob">
+<t>liten bit, lite grann</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="192">bivval</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>warm</t>
+</tg>
+<tg xml:lang="swe">
+<t>varmt</t>
+</tg>
+<tg xml:lang="nob">
+<t>varm</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="195">blávvat</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>blue</t>
+</tg>
+<tg xml:lang="swe">
+<t>blå, blått</t>
+</tg>
+<tg xml:lang="nob">
+<t>blå, blått</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="3981">bulitj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>flammable, combustible</t>
+</tg>
+<tg xml:lang="swe">
+<t>eldfängd, som brinner bra</t>
+</tg>
+<tg xml:lang="nob">
+<t>flammende ?</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="3398">buorak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>good</t>
+</tg>
+<tg xml:lang="swe">
+<t>bra</t>
+</tg>
+<tg xml:lang="nob">
+<t>bra</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="3399">buoraklágátj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>quite good</t>
+</tg>
+<tg xml:lang="swe">
+<t>ganska bra</t>
+</tg>
+<tg xml:lang="nob">
+<t>ganske bra</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="213">buorre</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>good</t>
+</tg>
+<tg xml:lang="swe">
+<t>bra, väl</t>
+</tg>
+<tg xml:lang="nob">
+<t>bra, snill</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="218">buossje</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>fearless, harsh</t>
+</tg>
+<tg xml:lang="swe">
+<t>morsk, orädd, barsk</t>
+</tg>
+<tg xml:lang="nob">
+<t>morsk, uredd</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90797">buäjjde</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>fat</t>
+</tg>
+<tg xml:lang="swe">
+<t>fett</t>
+</tg>
+<tg xml:lang="nob">
+<t>fett</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="3397">bådnedibme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>bottomless</t>
+</tg>
+<tg xml:lang="swe">
+<t>bottenlös</t>
+</tg>
+<tg xml:lang="nob">
+<t>bunnløs</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90533">båjjtot</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>wrong, incorrect</t>
+</tg>
+<tg xml:lang="swe">
+<t>fel, oriktigt</t>
+</tg>
+<tg xml:lang="nob">
+<t>feil, uriktig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="246">bånndá</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>rich, wealthy</t>
+</tg>
+<tg xml:lang="swe">
+<t>rik, förmögen</t>
+</tg>
+<tg xml:lang="nob">
+<t>rik, velstående</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90560">båsstot</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>wrong, incorrect</t>
+</tg>
+<tg xml:lang="swe">
+<t>fel, oriktigt</t>
+</tg>
+<tg xml:lang="nob">
+<t>feil, uriktig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90805">bäjjvásatj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>of a day</t>
+</tg>
+<tg xml:lang="swe">
+<t>dagens-</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90987">dámak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>tame</t>
+</tg>
+<tg xml:lang="swe">
+<t>tam</t>
+</tg>
+<tg xml:lang="nob">
+<t>tam</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="343">dávnas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>particularly soft (for skis)</t>
+</tg>
+<tg xml:lang="swe">
+<t>speciellt mjukt (om skidor)</t>
+</tg>
+<tg xml:lang="nob">
+<t>spesielt mykt</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="2628">dievas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>full</t>
+</tg>
+<tg xml:lang="swe">
+<re>om mängd, t.ex. en full hink</re>
+<t>full</t>
+</tg>
+<tg xml:lang="nob">
+<t>full</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="374">dimes</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>soft</t>
+</tg>
+<tg xml:lang="swe">
+<t>mjuk, lös</t>
+</tg>
+<tg xml:lang="nob">
+<t>myk (om mat)</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="2977">divras</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>expensive</t>
+</tg>
+<tg xml:lang="swe">
+<t>dyr</t>
+</tg>
+<tg xml:lang="nob">
+<t>dyr</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="5578">duallbat</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>flat</t>
+</tg>
+<tg xml:lang="swe">
+<t>flat</t>
+</tg>
+<tg xml:lang="nob">
+<t>flat</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="4213">dulutj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>old-time</t>
+</tg>
+<tg xml:lang="swe">
+<t>gammal</t>
+</tg>
+<tg xml:lang="nob">
+<t>gammel</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="2383">dummpi</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>stupid, dumb</t>
+</tg>
+<tg xml:lang="swe">
+<t>dum</t>
+</tg>
+<tg xml:lang="nob">
+<t>dum</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="400">duolvas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>dirty, impure</t>
+</tg>
+<tg xml:lang="swe">
+<t>smutsig, oren</t>
+</tg>
+<tg xml:lang="nob">
+<t>skitten, uren</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="3455">durrulis</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>belligerent</t>
+</tg>
+<tg xml:lang="swe">
+<t>bråkig, stridslysten</t>
+</tg>
+<tg xml:lang="nob">
+<t>støyende</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="411">dåbdos</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>known</t>
+</tg>
+<tg xml:lang="swe">
+<t>känd, igenkänd</t>
+</tg>
+<tg xml:lang="nob">
+<t>kjent</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="4744">dåssjedibme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>unnecessary</t>
+</tg>
+<tg xml:lang="swe">
+<t>onödigt</t>
+</tg>
+<tg xml:lang="nob">
+<t>unødvendig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="3242">därbulatj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>required, needed</t>
+</tg>
+<tg xml:lang="swe">
+<t>behövlig</t>
+</tg>
+<tg xml:lang="nob">
+<t>nødvendig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="3728">elulatj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>rich in reindeer</t>
+</tg>
+<tg xml:lang="swe">
+<t>rik på renar</t>
+</tg>
+<tg xml:lang="nob">
+<t>ha mange rein</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90812">fábmogis</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>strong, powerful</t>
+</tg>
+<tg xml:lang="swe">
+<t>stark, kraftfull</t>
+</tg>
+<tg xml:lang="nob">
+<t>mektig, sterk, myndig; gyldig (i kraft); innflytelsesrik</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="5200">fámodibme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>powerless</t>
+</tg>
+<tg xml:lang="swe">
+<t>kraftlös, klen</t>
+</tg>
+<tg xml:lang="nob">
+<t>kraftløs, klein</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="472">fávvro</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>beautiful, attractive</t>
+</tg>
+<tg xml:lang="swe">
+<t>vacker, fager</t>
+</tg>
+<tg xml:lang="nob">
+<t>vakker, fager, pen</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="475">fierok</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>finished, ready</t>
+</tg>
+<tg xml:lang="swe">
+<t>färdig</t>
+</tg>
+<tg xml:lang="nob">
+<t>ferdig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90334">fuovas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>numerous</t>
+</tg>
+<tg xml:lang="swe">
+<t>talrik</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="3344">fämulatj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>strong, powerful</t>
+</tg>
+<tg xml:lang="swe">
+<t>kraftfull, mäktig</t>
+</tg>
+<tg xml:lang="nob">
+<t>kraftfull, mektig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="4190">färrta</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>every, each and every</t>
+</tg>
+<tg xml:lang="swe">
+<t>varje, var och en</t>
+</tg>
+<tg xml:lang="nob">
+<t>hver, hver og en</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="3548">färrtabäjjvásatj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>daily</t>
+</tg>
+<tg xml:lang="swe">
+<t>daglig</t>
+</tg>
+<tg xml:lang="nob">
+<t>daglig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="6224">färrtalágátj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>all kinds of</t>
+</tg>
+<tg xml:lang="swe">
+<t>all slags</t>
+</tg>
+<tg xml:lang="nob">
+<t>alle slags</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="3783">gallje</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>wide, spacious</t>
+</tg>
+<tg xml:lang="swe">
+<t>vid, rymlig</t>
+</tg>
+<tg xml:lang="nob">
+<t>vid, romslig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90123">galmas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>cold</t>
+</tg>
+<tg xml:lang="swe">
+<t>kalt</t>
+</tg>
+<tg xml:lang="nob">
+<t>kald</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="537">gaŋnadibme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>useless</t>
+</tg>
+<tg xml:lang="swe">
+<t>obrukbar</t>
+</tg>
+<tg xml:lang="nob">
+<t>ubrukelig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90186">garras</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>hard</t>
+</tg>
+<tg xml:lang="swe">
+<t>hård</t>
+</tg>
+<tg xml:lang="nob">
+<t>hard</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="562">gassak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>thick, fat</t>
+</tg>
+<tg xml:lang="swe">
+<t>tjock</t>
+</tg>
+<tg xml:lang="nob">
+<t>tykk</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="2493">gámbal</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>old</t>
+</tg>
+<tg xml:lang="swe">
+<t>gammal</t>
+</tg>
+<tg xml:lang="nob">
+<t>gammel</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="5826">gárves</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>finished, ready</t>
+</tg>
+<tg xml:lang="swe">
+<t>färdig, klar</t>
+</tg>
+<tg xml:lang="nob">
+<t>ferdig, klar</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="4816">gávak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>bent</t>
+</tg>
+<tg xml:lang="swe">
+<t>böjd</t>
+</tg>
+<tg xml:lang="nob">
+<t>bøyd</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="578">gávkas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>slow, boring</t>
+</tg>
+<tg xml:lang="swe">
+<t>långsam, tråkig</t>
+</tg>
+<tg xml:lang="nob">
+<t>langsom, kjedelig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="2656">gienes</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>painful, evil, nasty</t>
+</tg>
+<tg xml:lang="swe">
+<t>ond, elak, stygg</t>
+</tg>
+<tg xml:lang="nob">
+<t>ond</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90194">gieres</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>in love, loved</t>
+</tg>
+<tg xml:lang="swe">
+<t>kär, förälskad</t>
+</tg>
+<tg xml:lang="nob">
+<t>kjær, kjærlig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90547">guhka</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>long</t>
+</tg>
+<tg xml:lang="swe">
+<t>lång</t>
+</tg>
+<tg xml:lang="nob">
+<t>lang</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="662">guhkke</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>long</t>
+</tg>
+<tg xml:lang="swe">
+<t>lång</t>
+</tg>
+<tg xml:lang="nob">
+<t>lang</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="4862">guoros</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>empty</t>
+</tg>
+<tg xml:lang="swe">
+<t>tom</t>
+</tg>
+<tg xml:lang="nob">
+<t>tom</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="4873">guäkktelágátj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>twins, two similar things</t>
+</tg>
+<tg xml:lang="swe">
+<t>två likadana</t>
+</tg>
+<tg xml:lang="nob">
+<t>to like</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="6239">gåjkes</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>dry</t>
+</tg>
+<tg xml:lang="swe">
+<t>torr</t>
+</tg>
+<tg xml:lang="nob">
+<t>tørr</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="4892">gålbmåtjiegak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>triangular</t>
+</tg>
+<tg xml:lang="swe">
+<t>trehörning, trekantig</t>
+</tg>
+<tg xml:lang="nob">
+<t>treksntet, med tre hjørner</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="782">gähppe</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>light, lightweight</t>
+</tg>
+<tg xml:lang="swe">
+<re>om vikt</re>
+<t>lätt</t>
+</tg>
+<tg xml:lang="nob">
+<t>lett</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="797">gävvra</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>strong</t>
+</tg>
+<tg xml:lang="swe">
+<t>stark</t>
+</tg>
+<tg xml:lang="nob">
+<t>sterk</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="827">hávvske</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>pleasant, fun</t>
+</tg>
+<tg xml:lang="swe">
+<t>trevligt, roligt</t>
+</tg>
+<tg xml:lang="nob">
+<t>hyggelig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="828">hiedjo</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>poor</t>
+</tg>
+<tg xml:lang="swe">
+<t>fattig</t>
+</tg>
+<tg xml:lang="nob">
+<t>fattig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="840">hieves</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>proud, impressive</t>
+</tg>
+<tg xml:lang="swe">
+<t>stolt, präktig</t>
+</tg>
+<tg xml:lang="nob">
+<t>stolt</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90550">hådje</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>sad, mournful</t>
+</tg>
+<tg xml:lang="swe">
+<t>sorgsen, ledsen</t>
+</tg>
+<tg xml:lang="nob">
+<t>trist, være lei seg</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="2395">iednak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>a lot, much</t>
+</tg>
+<tg xml:lang="swe">
+<t>mycket</t>
+</tg>
+<tg xml:lang="nob">
+<t>mye</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="6882">ietjá</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>other</t>
+</tg>
+<tg xml:lang="swe">
+<t>annan, andra</t>
+</tg>
+<tg xml:lang="nob">
+<t>annen, andre</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="458">ietjálágátj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>different</t>
+</tg>
+<tg xml:lang="swe">
+<t>annorlunda</t>
+</tg>
+<tg xml:lang="nob">
+<t>anderledes</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90880">ihttátj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>tomorrow's</t>
+</tg>
+<tg xml:lang="swe">
+<t>morgondagens</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90798">jallga</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>even, level, flat</t>
+</tg>
+<tg xml:lang="swe">
+<t>slätt</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="919">jallgat</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>even, level, flat</t>
+</tg>
+<tg xml:lang="swe">
+<t>slätt, jämn (om mark)</t>
+</tg>
+<tg xml:lang="nob">
+<t>flatt, slett (terreng)</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="5569">jámas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>dead</t>
+</tg>
+<tg xml:lang="swe">
+<t>död, dött</t>
+</tg>
+<tg xml:lang="nob">
+<t>i død tilstand</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="932">juhke</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>alcoholic, drunkard</t>
+</tg>
+<tg xml:lang="swe">
+<t>fyllerist, alkoholist</t>
+</tg>
+<tg xml:lang="nob">
+<t>fyllik, alkoholiker</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90857">jårrbå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>round, undivided</t>
+</tg>
+<tg xml:lang="swe">
+<t>rund, odelad</t>
+</tg>
+<tg xml:lang="nob">
+<t>rund, udelt</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="4921">jårrbåt</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>round</t>
+</tg>
+<tg xml:lang="swe">
+<t>rund</t>
+</tg>
+<tg xml:lang="nob">
+<t>rund</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="986">kuora</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>left over, remaining</t>
+</tg>
+<tg xml:lang="swe">
+<t>kvar</t>
+</tg>
+<tg xml:lang="nob">
+<t>igjen</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="91110">lahka</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>near, close</t>
+</tg>
+<tg xml:lang="swe">
+<t>nära</t>
+</tg>
+<tg xml:lang="nob">
+<t>nær</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90801">lágátj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>like (adjective compound component)</t>
+</tg>
+<tg xml:lang="swe">
+<re>adjektiv-konponent, uppträder aldrig ensam</re>
+<t>lik</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="5477">lihkas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>lame, with a limp</t>
+</tg>
+<tg xml:lang="swe">
+<t>halt</t>
+</tg>
+<tg xml:lang="nob">
+<t>halt</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="91020">liŋkas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>lame, with a limp</t>
+</tg>
+<tg xml:lang="swe">
+<t>halt</t>
+</tg>
+<tg xml:lang="nob">
+<t>halt</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="1053">livák</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>thin, slender</t>
+</tg>
+<tg xml:lang="swe">
+<t>mager</t>
+</tg>
+<tg xml:lang="nob">
+<t>mager</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="1071">luovas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>loose; free</t>
+</tg>
+<tg xml:lang="swe">
+<t>lös; fri</t>
+</tg>
+<tg xml:lang="nob">
+<t>løs; fri</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90501">lådje</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>calm, tame</t>
+</tg>
+<tg xml:lang="swe">
+<t>lugn, tam</t>
+</tg>
+<tg xml:lang="nob">
+<t>rolig, tam</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="4964">låjje</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>calm, tame</t>
+</tg>
+<tg xml:lang="swe">
+<t>lugn, tam</t>
+</tg>
+<tg xml:lang="nob">
+<t>rolig, tam</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="1097">låssåt</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>heavy, difficult</t>
+</tg>
+<tg xml:lang="swe">
+<t>tung</t>
+</tg>
+<tg xml:lang="nob">
+<t>tung</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="91011">maŋŋe</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>after</t>
+</tg>
+<tg xml:lang="swe">
+<t>efter, bak</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90804">mielagatj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>of an opinion</t>
+</tg>
+<tg xml:lang="swe">
+<t>på ett humör</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="5730">mujtodibme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>forgetful</t>
+</tg>
+<tg xml:lang="swe">
+<t>glömsk</t>
+</tg>
+<tg xml:lang="nob">
+<t>glømsk, en som husker dårlig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="1196">mådde</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>several</t>
+</tg>
+<tg xml:lang="swe">
+<t>flera</t>
+</tg>
+<tg xml:lang="nob">
+<t>flere</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="5506">mårret</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>pleasant</t>
+</tg>
+<tg xml:lang="swe">
+<t>trevlig</t>
+</tg>
+<tg xml:lang="nob">
+<t>triveligst</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="1224">mällgat</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>far</t>
+</tg>
+<tg xml:lang="swe">
+<t>långt (om vägsträckor)</t>
+</tg>
+<tg xml:lang="nob">
+<t>langt (om veistrekning)</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="91170">nag</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>some (-thing, -one)</t>
+</tg>
+<tg xml:lang="swe">
+<t>något, någon</t>
+</tg>
+<tg xml:lang="nob">
+<t>noe, noen</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90963">nagan</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>some (-thing, -one)</t>
+</tg>
+<tg xml:lang="swe">
+<t>något, någon</t>
+</tg>
+<tg xml:lang="nob">
+<t>noe, noen</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="3430">nágan</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>some (-thing, -one)</t>
+</tg>
+<tg xml:lang="swe">
+<t>något, någon</t>
+</tg>
+<tg xml:lang="nob">
+<t>noe, noen</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90807">nágin</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>some (-thing, -one)</t>
+</tg>
+<tg xml:lang="swe">
+<t>något, någon</t>
+</tg>
+<tg xml:lang="nob">
+<t>noe, noen</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="4195">njalkas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>slippery</t>
+</tg>
+<tg xml:lang="swe">
+<t>halkig</t>
+</tg>
+<tg xml:lang="nob">
+<t>glatt</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="91002">norska</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Norwegian</t>
+</tg>
+<tg xml:lang="swe">
+<t>norsk</t>
+</tg>
+<tg xml:lang="nob">
+<t>norsk</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="1323">nuorra</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>young</t>
+</tg>
+<tg xml:lang="swe">
+<t>ung</t>
+</tg>
+<tg xml:lang="nob">
+<t>ung</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="5307">nälljetjiegak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>square</t>
+</tg>
+<tg xml:lang="swe">
+<t>fyrkantig</t>
+</tg>
+<tg xml:lang="nob">
+<t>firkantet</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="1342">nävvre</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>bad</t>
+</tg>
+<tg xml:lang="swe">
+<t>dålig, usel</t>
+</tg>
+<tg xml:lang="nob">
+<t>dårlig, ussel</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="91152">samma</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>same, identical</t>
+</tg>
+<tg xml:lang="swe">
+<t>samma</t>
+</tg>
+<tg xml:lang="nob">
+<t>samme</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90996">sieldes</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>terrible, huge, enormous</t>
+</tg>
+<tg xml:lang="swe">
+<t>förskräcklig, väldig</t>
+</tg>
+<tg xml:lang="nob">
+<t>uhyggelig, nifs, fæl</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="91118">sierra</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>special, different, separate</t>
+</tg>
+<tg xml:lang="swe">
+<t>särskild, separat, speciell</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="3993">sjávodibme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>taciturn, reticent</t>
+</tg>
+<tg xml:lang="swe">
+<t>tystlåten, fåordig</t>
+</tg>
+<tg xml:lang="nob">
+<t>stillferdig, fåmælt</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="91119">sjävdnjat</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>dark</t>
+</tg>
+<tg xml:lang="swe">
+<t>mörk</t>
+</tg>
+<tg xml:lang="nob">
+<t>mørket</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="3301">sjävdnjet</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>dark</t>
+</tg>
+<tg xml:lang="swe">
+<t>mörk</t>
+</tg>
+<tg xml:lang="nob">
+<t>mørket</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="5775">skábmodibme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>unabashed</t>
+</tg>
+<tg xml:lang="swe">
+<t>oförskämd</t>
+</tg>
+<tg xml:lang="nob">
+<t>uforskammet</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="91105">slijtane</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>worn</t>
+</tg>
+<tg xml:lang="swe">
+<t>sliten</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90347">smávve</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>small, little</t>
+</tg>
+<tg xml:lang="swe">
+<t>små, liten</t>
+</tg>
+<tg xml:lang="nob">
+<t>liten, små</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90796">stuor</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>big</t>
+</tg>
+<tg xml:lang="swe">
+<t>stor</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="1739">stuorak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>big</t>
+</tg>
+<tg xml:lang="swe">
+<t>stor</t>
+</tg>
+<tg xml:lang="nob">
+<t>stor</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="1742">stuores</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>big</t>
+</tg>
+<tg xml:lang="swe">
+<t>stor</t>
+</tg>
+<tg xml:lang="nob">
+<t>stor</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="6070">suddogis</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>sinful</t>
+</tg>
+<tg xml:lang="swe">
+<t>syndig</t>
+</tg>
+<tg xml:lang="nob">
+<t>syndig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="4258">suhtelágátj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>in many ways, multiple</t>
+</tg>
+<tg xml:lang="swe">
+<t>på många sätt</t>
+</tg>
+<tg xml:lang="nob">
+<t>på mange måter</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="4525">suohtas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>fun</t>
+</tg>
+<tg xml:lang="swe">
+<t>roligt</t>
+</tg>
+<tg xml:lang="nob">
+<t>artig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="91050">surgos</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>sorrowful, sad</t>
+</tg>
+<tg xml:lang="swe">
+<t>lesden</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="1822">såmes</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>some</t>
+</tg>
+<tg xml:lang="swe">
+<t>någon, något, några</t>
+</tg>
+<tg xml:lang="nob">
+<t>noen</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="1839">sällde</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>terrible, huge, enormous</t>
+</tg>
+<tg xml:lang="swe">
+<t>förskräcklig, väldig</t>
+</tg>
+<tg xml:lang="nob">
+<t>uhyggelig, nifs, fæl</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="91111">sälldes</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>terrible, huge, enormous</t>
+</tg>
+<tg xml:lang="swe">
+<t>förskräcklig, väldig</t>
+</tg>
+<tg xml:lang="nob">
+<t>uhyggelig, nifs, fæl</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="1841">sämmi</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>same, identical</t>
+</tg>
+<tg xml:lang="swe">
+<t>samma</t>
+</tg>
+<tg xml:lang="nob">
+<t>samme</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="3975">särralágátj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>special, original</t>
+</tg>
+<tg xml:lang="swe">
+<t>originell, speciell</t>
+</tg>
+<tg xml:lang="nob">
+<t>original, spesiell person</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="6622">tjalmedibme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>blind</t>
+</tg>
+<tg xml:lang="swe">
+<t>blind</t>
+</tg>
+<tg xml:lang="nob">
+<t>blind</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="1849">tjábbe</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>beautiful</t>
+</tg>
+<tg xml:lang="swe">
+<t>vacker, skön</t>
+</tg>
+<tg xml:lang="nob">
+<t>vakker, skjønn</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="1860">tjáhppat</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>black</t>
+</tg>
+<tg xml:lang="swe">
+<t>svart</t>
+</tg>
+<tg xml:lang="nob">
+<t>svart</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="5213">tjerrulis</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>whimpering (for children)</t>
+</tg>
+<tg xml:lang="swe">
+<t>grinig (om barn)</t>
+</tg>
+<tg xml:lang="nob">
+<t>vanskelig, grinete om barn</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="5212">tjiegak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>angular, cornered</t>
+</tg>
+<tg xml:lang="swe">
+<t>kantig</t>
+</tg>
+<tg xml:lang="nob">
+<t>kantete</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90984">tjiegos</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>hidden, secret, confidential</t>
+</tg>
+<tg xml:lang="swe">
+<t>gömd; dold, hemlig; förtrolig</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90712">tjiervas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>awful, terrible; difficult</t>
+</tg>
+<tg xml:lang="swe">
+<t>föskräcklig, väldig, besvärlig</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="1978">tjåskes</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>cold (for weather)</t>
+</tg>
+<tg xml:lang="swe">
+<t>kallt (om väder)</t>
+</tg>
+<tg xml:lang="nob">
+<t>kaldt (om vær) (adj)</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="1983">tjähppe</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>clever, intelligent, skilled</t>
+</tg>
+<tg xml:lang="swe">
+<t>kunnig, duktig, händig</t>
+</tg>
+<tg xml:lang="nob">
+<t>kunnskapsrik</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="1343">umasse</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>all kinds of</t>
+</tg>
+<tg xml:lang="swe">
+<t>allt möjligt, en massa</t>
+</tg>
+<tg xml:lang="nob">
+<t>alt mulig, en masse</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90909">umårret</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>unpleasant</t>
+</tg>
+<tg xml:lang="swe">
+<t>otrevlig</t>
+</tg>
+<tg xml:lang="nob">
+<t>utrivelig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90285">unne</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>small, little</t>
+</tg>
+<tg xml:lang="swe">
+<t>liten</t>
+</tg>
+<tg xml:lang="nob">
+<t>liten</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90859">unnes</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>small, little</t>
+</tg>
+<tg xml:lang="swe">
+<t>liten</t>
+</tg>
+<tg xml:lang="nob">
+<t>liten</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="2033">unogis</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>strange, unusual, odd</t>
+</tg>
+<tg xml:lang="swe">
+<t>underlig, märklig, konstig</t>
+</tg>
+<tg xml:lang="nob">
+<t>underlig, merkelig, rar</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="2076">vallje</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>abundant, plenty of</t>
+</tg>
+<tg xml:lang="swe">
+<t>riklig, gott om</t>
+</tg>
+<tg xml:lang="nob">
+<t>overflod</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="2337">vasste</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>ugly, horrible</t>
+</tg>
+<tg xml:lang="swe">
+<t>ful, hemsk</t>
+</tg>
+<tg xml:lang="nob">
+<t>stygg</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="2067">vájjve</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>difficult, troublesome, serious</t>
+</tg>
+<tg xml:lang="swe">
+<t>svår, besvärlig, tråkig</t>
+</tg>
+<tg xml:lang="nob">
+<t>vanskelig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90395">vásse</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>previous</t>
+</tg>
+<tg xml:lang="swe">
+<t>förra, senaste, sista</t>
+</tg>
+<tg xml:lang="nob">
+<t>forrige natt</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="6137">vielgedibme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>debt-free</t>
+</tg>
+<tg xml:lang="swe">
+<t>skuldfri</t>
+</tg>
+<tg xml:lang="nob">
+<t>skyldfri</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="91154">vierre</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>(bad -&gt; worse/worst)</t>
+</tg>
+<tg xml:lang="swe">
+<t>(dålig -&gt; sämre/värst)</t>
+</tg>
+<tg xml:lang="nob">
+<t>(verre)</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="4050">vigedibme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>without mistakes</t>
+</tg>
+<tg xml:lang="swe">
+<t>felfri</t>
+</tg>
+<tg xml:lang="nob">
+<t>feilfri</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="5771">vijdes</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>wide, stretched out far</t>
+</tg>
+<tg xml:lang="swe">
+<t>i stor utsträckning, vida omkring</t>
+</tg>
+<tg xml:lang="nob">
+<t>i stor utstrekning, vidt omkring</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="5224">vijses</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>smart, wise</t>
+</tg>
+<tg xml:lang="swe">
+<t>klok, vis</t>
+</tg>
+<tg xml:lang="nob">
+<t>klok, vis</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90398">vuojnos</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>visible, obvious</t>
+</tg>
+<tg xml:lang="swe">
+<t>synlig, uppenbar</t>
+</tg>
+<tg xml:lang="nob">
+<t>i sikte, innom synsvidde</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="2187">vuoras</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>old (for humans and animals)</t>
+</tg>
+<tg xml:lang="swe">
+<t>gammal (om människor och djur)</t>
+</tg>
+<tg xml:lang="nob">
+<t>gammel (om mennesker og dyr)</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="3719">vuorbálatj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>successful, fortunate</t>
+</tg>
+<tg xml:lang="swe">
+<t>lyckosam</t>
+</tg>
+<tg xml:lang="nob">
+<t>heldig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="5291">vuorbedibme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>unlucky</t>
+</tg>
+<tg xml:lang="swe">
+<t>utan tur, olycklig</t>
+</tg>
+<tg xml:lang="nob">
+<t>uten flaks, ulykkelig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90457">vuostatj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>first</t>
+</tg>
+<tg xml:lang="swe">
+<t>första</t>
+</tg>
+<tg xml:lang="nob">
+<t>første</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="4547">vuällegatj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>low, humble</t>
+</tg>
+<tg xml:lang="swe">
+<t>låg, ödmjuk</t>
+</tg>
+<tg xml:lang="nob">
+<t>den nederste</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="4796">vuällegis</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>low, humble</t>
+</tg>
+<tg xml:lang="swe">
+<t>låg, ödmjuk </t>
+</tg>
+<tg xml:lang="nob">
+<t>ydmyk</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="2235">ådne</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>short</t>
+</tg>
+<tg xml:lang="swe">
+<t>kort</t>
+</tg>
+<tg xml:lang="nob">
+<t>kort</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90519">ådås</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>new</t>
+</tg>
+<tg xml:lang="swe">
+<t>ny</t>
+</tg>
+<tg xml:lang="nob">
+<t>ny</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="91140">åjvedibme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>headless; dumb</t>
+</tg>
+<tg xml:lang="swe">
+<t>huvudlös; dum</t>
+</tg>
+<tg xml:lang="nob">
+<t>hodeløs; dum</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="5038">ånegatj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>short</t>
+</tg>
+<tg xml:lang="swe">
+<t>kort</t>
+</tg>
+<tg xml:lang="nob">
+<t>småvokst, kort</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90201">årås</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>new</t>
+</tg>
+<tg xml:lang="swe">
+<t>ny</t>
+</tg>
+<tg xml:lang="nob">
+<t>ny</t>
+</tg>
+</mg>
+</e>
+</r>

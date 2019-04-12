@@ -1,0 +1,1856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smenob" xml:lang="sme">
+<lics xml:space="preserve">
+<lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+<ref>Lexicographic work done by 
+	 Nils-Henrik Bengtsson, Marianne Eriksson, Inger Fjällås, Eva-Karin Rosenberg, Gry Helen Sivertsen, Valborg Sjaggo, Dagny Skaile, Peter Steggo, Olve Utne and Joshua Wilbur.
+	 With technical support from Giellatekno at UiT. 
+	 Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+<sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors, send your comments to
+     <a>mailto:psdp@gmx.de</a> and/or <a>mailto:giellatekno@uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
+** Generated at: 2019-04-12T16:46:22+02:00
+
+
+</sourcenote>
+</lics>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90893">Aksamnjárrga</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Vaksamnjárgga</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90719">Aleldis</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Örnvik</t>
+</tg>
+<tg xml:lang="swe">
+<t>Örnvik</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="5945">Alesgiehtje</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<re>ordagrann ‘västlig ände’</re>
+<t>Västerfjäll</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91208">Áhkábákkte</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Áhkábákkte</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90953">Áhkávárák</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>inhabitant of Akkavare</t>
+</tg>
+<tg xml:lang="swe">
+<t>Akkavarebor</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90952">Áhkávárre</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Akkavare</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91209">Ákksjotjålbme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Ákksjotjålbme</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91021">Ánna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Anna</t>
+</tg>
+<tg xml:lang="swe">
+<t>Anna</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="3100">Ánnda</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Anders</t>
+</tg>
+<tg xml:lang="swe">
+<t>Anders</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90883">Ánnde</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Anders</t>
+</tg>
+<tg xml:lang="swe">
+<t>Anders</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90692">Árdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Árdna</t>
+</tg>
+<tg xml:lang="swe">
+<re>fjäll söder om Västerfjäll</re>
+<t>Árdna</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90999">Árjapluovve</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Arjeplog</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="4609">Árjepluovek</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>inhabitant of Arjeplog</t>
+</tg>
+<tg xml:lang="swe">
+<t>arjeplogsbo</t>
+</tg>
+<tg xml:lang="nob">
+<t>innbygger i Arjeplog</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="66">Árjepluovve</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Arjeplog</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91003">Árves</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Árves</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="6641">Bassåjjve</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Bassåjjve, heliga fjället</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90697">Bárrka</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Bárrka</t>
+</tg>
+<tg xml:lang="swe">
+<re>plats nära Västerfjäll</re>
+<t>Bárrka</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="4637">Bávval</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Paul</t>
+</tg>
+<tg xml:lang="swe">
+<t>Paul</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91184">Bengtsson</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Bengtsson</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="167">Bidám</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Piteå</t>
+</tg>
+<tg xml:lang="swe">
+<t>Piteå</t>
+</tg>
+<tg xml:lang="nob">
+<t>Piteå</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="170">Bidumiedno</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Pite river</t>
+</tg>
+<tg xml:lang="swe">
+<t>Pite älv</t>
+</tg>
+<tg xml:lang="nob">
+<t>Pite elv</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="6841">Bieljegájjse</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Pieljekaise</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90885">Bierok</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Per</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90939">Birrumaiedno</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Pite river</t>
+</tg>
+<tg xml:lang="swe">
+<t>Pite älv</t>
+</tg>
+<tg xml:lang="nob">
+<t>Pite elv</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90771">Bisum</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Piteå</t>
+</tg>
+<tg xml:lang="swe">
+<t>Piteå</t>
+</tg>
+<tg xml:lang="nob">
+<t>Piteå</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90773">Bisumiedno</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Pite river</t>
+</tg>
+<tg xml:lang="swe">
+<t>Pite älv</t>
+</tg>
+<tg xml:lang="nob">
+<t>Pite elv</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91126">Blind</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Blind</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90755">Bäno</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<re>bergrygg i Arjeplogs fjällen</re>
+<t>Bäno</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91174">Dagny</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Dagny</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="3555">Danmarrka</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Denmark</t>
+</tg>
+<tg xml:lang="swe">
+<t>Danmark</t>
+</tg>
+<tg xml:lang="nob">
+<t>Danmark</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91026">Elsa</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Elsa</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91191">Erik</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Erik</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91194">Erling</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Erling</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91187">Fjällman</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Fjällman</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="4238">Frankrijjka</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>France</t>
+</tg>
+<tg xml:lang="swe">
+<t>Frankrike</t>
+</tg>
+<tg xml:lang="nob">
+<t>Frankrike</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="6840">Gállesbuavvda</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Galtispuoda</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="5251">Gárrdevárre</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>fenced in mountain area</t>
+</tg>
+<tg xml:lang="swe">
+<re>avgränsas av Volvojaur i norr och Mattaurälven i söder</re>
+<t>omgärdat fjällområde</t>
+</tg>
+<tg xml:lang="nob">
+<t>gjerde rund fjellområde</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91176">Gárrdvárre</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>fenced in mountain area</t>
+</tg>
+<tg xml:lang="swe">
+<re>avgränsas av Volvojaur i norr och Mattaurälven i söder</re>
+<t>omgärdat fjällområde</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="3401">Guarrbanjárrga</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Brännudden</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91130">Guhkavárrdo</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Guhkavárrdo</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="6522">Gujjávvre</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Gujjávvre</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90743">Guoledis</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Guoletisjávvre</t>
+</tg>
+<tg xml:lang="swe">
+<t>Guoletisjávvre, 'fisklös'</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="6529">Guoledisjávvre</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Guoletisjávvre</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90696">Gåbbdá</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Gåbbda</t>
+</tg>
+<tg xml:lang="swe">
+<re>fjäll nära Västerfjäll</re>
+<t>Gåbbda</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91022">Hiŋŋga</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Hinga</t>
+</tg>
+<tg xml:lang="swe">
+<t>Hinga</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="4123">Härrgevárre</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Renberget</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="4782">Inntjáválle</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Älvsbyn</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="5978">Juhán</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>John</t>
+</tg>
+<tg xml:lang="swe">
+<t>Johan</t>
+</tg>
+<tg xml:lang="nob">
+<t>Johan</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90998">Jåhkåmåhkke</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Jokkmokk</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91000">Jåkmåhkke</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Jokkmokk</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90884">Jånnå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Jon, Jonas, osv.</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90219">Jåssjå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Joshua</t>
+</tg>
+<tg xml:lang="swe">
+<t>Josua</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="5979">Jåvvná</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Jonas</t>
+</tg>
+<tg xml:lang="swe">
+<t>Jonas</t>
+</tg>
+<tg xml:lang="nob">
+<t>Jonas</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="4140">Krájja</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Kraja</t>
+</tg>
+<tg xml:lang="swe">
+<t>Kraja</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91023">Krehtta</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Greta</t>
+</tg>
+<tg xml:lang="swe">
+<t>Greta</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91131">Lajratjåhkkå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Lajratjåhkkå</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91190">Lars</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Lars</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91025">Lassko</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Lasko</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91198">Lábbás</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Labbas</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="6035">Lässe</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Lars</t>
+</tg>
+<tg xml:lang="swe">
+<t>Lasse, Lars</t>
+</tg>
+<tg xml:lang="nob">
+<t>Lasse, Lars</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="1127">Maltegis</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Maltegis</t>
+</tg>
+<tg xml:lang="swe">
+<re>en del av Svartisen</re>
+<t>Maltegis</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91185">Margareta</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Margareta</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91128">Maria</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Maria</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90281">Mávas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Mavas</t>
+</tg>
+<tg xml:lang="swe">
+<t>Mavas</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90938">Mávasjávvre</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Lake Mavas</t>
+</tg>
+<tg xml:lang="swe">
+<t>Mavasjaure</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90886">Märrgi</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Margareta</t>
+</tg>
+<tg xml:lang="swe">
+<t>Margareta</t>
+</tg>
+<tg xml:lang="nob">
+<t>Margareta</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="5974">Märrgit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Margareta</t>
+</tg>
+<tg xml:lang="swe">
+<t>Margareta</t>
+</tg>
+<tg xml:lang="nob">
+<t>Margareta</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90958">Namadis</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Namatisfjäll, 'namnlös'</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="6523">Njassja</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Njassja</t>
+</tg>
+<tg xml:lang="swe">
+<t>Njassja</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91161">Norrbotten</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Norrbotten</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91125">Olso</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Olso</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91146">Oskar</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Oscar</t>
+</tg>
+<tg xml:lang="swe">
+<t>Oskar</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91124">Per</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Per</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="4215">Piera</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Per</t>
+</tg>
+<tg xml:lang="swe">
+<t>Per</t>
+</tg>
+<tg xml:lang="nob">
+<t>Per (egennavn)</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90887">Rabak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Rebakudden</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90695">Rasska</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Rasska</t>
+</tg>
+<tg xml:lang="swe">
+<re>fjäll nära Västerfjäll</re>
+<t>Rasska</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91132">Rájjavárre</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Rájjavárre</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90944">Riebnes</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Riebnes</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="1436">Ruopsok</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Ruopsok</t>
+</tg>
+<tg xml:lang="swe">
+<re>i Arjeplogsfjällen</re>
+<t>Ruopsok</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90869">Råmmså</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Tromsø</t>
+</tg>
+<tg xml:lang="swe">
+<t>Tromsö</t>
+</tg>
+<tg xml:lang="nob">
+<t>Tromsø</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91181">Sádenåjjve</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Sádenåjvve</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="5905">Sáhkavárre</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<re>nyhetsberget</re>
+<t>Sáhkavárre</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90693">Sállvo</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Sállvo</t>
+</tg>
+<tg xml:lang="swe">
+<re>fjäll nära Västerfjäll</re>
+<t>Sállvo</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90694">Sállvojåhkå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<re>bäck nära Västerfjäll</re>
+<t>Sállvobäck</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="5684">Sillbajåhkå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Silbojåkk</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91186">Sjul</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Sjul</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91175">Skajjle</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Skaile</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="2809">Skärrfa</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Skärrfa</t>
+</tg>
+<tg xml:lang="swe">
+<t>Skärrfa</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91024">Smuolle</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Smolle</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91047">Spallo</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Spallo</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91088">Stuorluobme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Stuorluobme</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90899">Stuormo</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Stormo</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90698">Stuornjárrga</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<re>udde nära Västerfjäll</re>
+<t>Stuornjárrga</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91192">Stäggu</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Steggo</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90942">Sulitjälbma</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Sulitelma</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="1760">Suobma</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Finland</t>
+</tg>
+<tg xml:lang="swe">
+<t>Finland</t>
+</tg>
+<tg xml:lang="nob">
+<t>Finland</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="1799">Sverdji</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Sweden</t>
+</tg>
+<tg xml:lang="swe">
+<t>Sverige</t>
+</tg>
+<tg xml:lang="nob">
+<t>Sverige</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="6585">Tjidtják</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Tjidtjak</t>
+</tg>
+<tg xml:lang="swe">
+<t>Tjidtjak, 'moderfjället'</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="4017">Tjuvtasvuodna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Tysfjord</t>
+</tg>
+<tg xml:lang="nob">
+<t>Tysfjord</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="1977">Tjårvek</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Hornavan</t>
+</tg>
+<tg xml:lang="swe">
+<t>Hornavan</t>
+</tg>
+<tg xml:lang="nob">
+<t>Hornavan</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90699">Tjäggelvas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Tjieggelvas</t>
+</tg>
+<tg xml:lang="swe">
+<re>sjö längs Piteälven</re>
+<t>Tjieggelvas</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91129">Varsjaguottko</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Varsjaguottko</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91122">Varsjajåhkå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Varsjajokk</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="2100">Vávvka</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Vaukagården</t>
+</tg>
+<tg xml:lang="swe">
+<re>vårdhem för äldre i Arjeplog</re>
+<t>Vaukagården</t>
+</tg>
+<tg xml:lang="nob">
+<t>pleiehjem for eldre</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91167">Vilstugan</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<re>vid silvervägen, nästan i Norge</re>
+<t>vilstugan</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91172">Vuallda</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<re>rengärde en mil norr om Arjeplog</re>
+<t>Vuolda</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91178">Vuallvo</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Vuolvojávrre</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="2157">Vuodna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Norway</t>
+</tg>
+<tg xml:lang="swe">
+<t>Norge</t>
+</tg>
+<tg xml:lang="nob">
+<t>Norge</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="6478">Vuoktanj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Vuoktanj</t>
+</tg>
+<tg xml:lang="swe">
+<t>Vuoktanj</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90710">Vuonatjluakkta</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Vuonatjviken</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="2811">Åjjvák</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Uddjaur Lake</t>
+</tg>
+<tg xml:lang="swe">
+<t>Uddjaur</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91127">Åvvla</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Ola</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="90872">Änntse</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Änntse</t>
+</tg>
+<tg xml:lang="swe">
+<t>Änntse, Ánnda, Anders</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+</r>
