@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2019-04-12T16:46:09+02:00
+** Generated at: 2019-04-19T13:37:10+02:00
 
 
 </sourcenote>
@@ -904,6 +904,54 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="2897">áhtjáddjá</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>paternal grandfather</t>
+</tg>
+<tg xml:lang="swe">
+<t>farfar</t>
+</tg>
+<tg xml:lang="nob">
+<t>farfar</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="2896">áhtjáhkka</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>paternal grandmother</t>
+</tg>
+<tg xml:lang="swe">
+<t>farmor</t>
+</tg>
+<tg xml:lang="nob">
+<t>farmor</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91245">áhtjájjá</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>paternal grandfather</t>
+</tg>
+<tg xml:lang="swe">
+<t>farfar</t>
+</tg>
+<tg xml:lang="nob">
+<t>farfar</t>
 </tg>
 </mg>
 </e>
@@ -1832,38 +1880,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>tordenvær</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="2897">átjáddjá</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>paternal grandfather</t>
-</tg>
-<tg xml:lang="swe">
-<t>farfar</t>
-</tg>
-<tg xml:lang="nob">
-<t>farfar</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="2896">átjáhkka</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>paternal grandmother</t>
-</tg>
-<tg xml:lang="swe">
-<t>farmor</t>
-</tg>
-<tg xml:lang="nob">
-<t>farmor</t>
 </tg>
 </mg>
 </e>
@@ -14856,6 +14872,23 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="90238">helsik</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>greeting</t>
+</tg>
+<tg xml:lang="swe">
+<re>oftast flertal 'helsiga'</re>
+<t>hälsning</t>
+</tg>
+<tg xml:lang="nob">
+<t>hilsen</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="841">hevel</l>
 </lg>
 <mg>
@@ -14931,23 +14964,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>tysbast</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="90238">hilsik</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>greeting</t>
-</tg>
-<tg xml:lang="swe">
-<re>oftast flertal 'hilsiga'</re>
-<t>hälsning</t>
-</tg>
-<tg xml:lang="nob">
-<t>hilsen</t>
 </tg>
 </mg>
 </e>
@@ -21503,7 +21519,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="1221">måvvka</l>
+<l pos="N" psdpDBno="1221">måvvká</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -29372,23 +29388,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="3831">skårremåvvka</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>leather trouser</t>
-</tg>
-<tg xml:lang="swe">
-<re>oftast i flertal</re>
-<t>skinnbyxa</t>
-</tg>
-<tg xml:lang="nob">
-<t>skinnbukse</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="N" psdpDBno="1655">skårrå</l>
 </lg>
 <mg>
@@ -36769,22 +36768,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="2055">váhtjam</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>reindeer cow</t>
-</tg>
-<tg xml:lang="swe">
-<t>honren, vaja</t>
-</tg>
-<tg xml:lang="nob">
-<t>simle</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="N" psdpDBno="2062">vájbmo</l>
 </lg>
 <mg>
@@ -37132,6 +37115,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>brystvorte, vorte</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="2055">vátjam</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>reindeer cow</t>
+</tg>
+<tg xml:lang="swe">
+<t>honren, vaja</t>
+</tg>
+<tg xml:lang="nob">
+<t>simle</t>
 </tg>
 </mg>
 </e>
