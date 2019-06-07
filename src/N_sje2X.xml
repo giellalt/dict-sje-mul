@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2019-04-19T13:37:10+02:00
+** Generated at: 2019-06-01T18:07:38+02:00
 
 
 </sourcenote>
@@ -305,7 +305,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>sky, heavens, space</t>
+<t>sky, heavens, (outer) space</t>
 </tg>
 <tg xml:lang="swe">
 <t>himmel, rymd</t>
@@ -360,22 +360,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>alfabetet</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="4212">allaskåvvla</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>school of higher education</t>
-</tg>
-<tg xml:lang="swe">
-<t>högskola</t>
-</tg>
-<tg xml:lang="nob">
-<t>høyskole</t>
 </tg>
 </mg>
 </e>
@@ -637,23 +621,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="4176">arrvo</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>value, price</t>
-</tg>
-<tg xml:lang="swe">
-<t>värde, pris, rang</t>
-</tg>
-<tg xml:lang="nob">
-<t>verdi, pris, rang</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="4206">artonåsse</l>
+<l pos="N" psdpDBno="4206">artånåsse</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -744,22 +712,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>belte</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="90">avvstagárre</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>bailing scoop</t>
-</tg>
-<tg xml:lang="swe">
-<t>öskar (i båt)</t>
-</tg>
-<tg xml:lang="nob">
-<t>øsekar (i båt)</t>
 </tg>
 </mg>
 </e>
@@ -1821,6 +1773,54 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="4176">árrvo</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>value, price</t>
+</tg>
+<tg xml:lang="swe">
+<t>värde, pris, rang</t>
+</tg>
+<tg xml:lang="nob">
+<t>verdi, pris, rang</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="4177">árrvobáhper</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>security paper</t>
+</tg>
+<tg xml:lang="swe">
+<t>värdepapper</t>
+</tg>
+<tg xml:lang="nob">
+<t>verdipapir</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="4178">árrvopåsstå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>certified mail</t>
+</tg>
+<tg xml:lang="swe">
+<t>värdepost</t>
+</tg>
+<tg xml:lang="nob">
+<t>verdipost</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="3141">ásfallta</l>
 </lg>
 <mg>
@@ -2040,6 +2040,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>gledestår</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="90">ávvstagárre</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>bailing scoop</t>
+</tg>
+<tg xml:lang="swe">
+<t>öskar (i båt)</t>
+</tg>
+<tg xml:lang="nob">
+<t>øsekar (i båt)</t>
 </tg>
 </mg>
 </e>
@@ -5087,7 +5103,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="6074">bålbar</l>
+<l pos="N" psdpDBno="6074">bålbár</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -17033,7 +17049,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="3519">kaffea</l>
+<l pos="N" psdpDBno="3519">kafea</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -20655,7 +20671,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="4264">misåmmar</l>
+<l pos="N" psdpDBno="4264">misåmmár</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -24019,6 +24035,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91248">påsstå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>mail, post</t>
+</tg>
+<tg xml:lang="swe">
+<t>post</t>
+</tg>
+<tg xml:lang="nob">
+<t>post</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="1355">pänna</l>
 </lg>
 <mg>
@@ -24046,6 +24078,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>klippe, avsats</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="4448">radak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>smoked, spread out fish</t>
+</tg>
+<tg xml:lang="swe">
+<t>rökt fläkt fisk</t>
+</tg>
+<tg xml:lang="nob">
+<t>røyket fisk</t>
 </tg>
 </mg>
 </e>
@@ -24174,22 +24222,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>børste, sopelim</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="4448">rádak</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>smoked fish</t>
-</tg>
-<tg xml:lang="swe">
-<t>rökt fisk</t>
-</tg>
-<tg xml:lang="nob">
-<t>røyket fisk</t>
 </tg>
 </mg>
 </e>
@@ -29436,7 +29468,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="91039">skåvvla</l>
+<l pos="N" psdpDBno="91039">skåvvlá</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -29452,7 +29484,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="1090">skåvvlalåhpe</l>
+<l pos="N" psdpDBno="1090">skåvvlálåhpe</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -31519,6 +31551,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="1761">suobmelatj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Finn</t>
+</tg>
+<tg xml:lang="swe">
+<t>finländare</t>
+</tg>
+<tg xml:lang="nob">
+<t>finlender</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="1762">suodja</l>
 </lg>
 <mg>
@@ -32336,22 +32384,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="1761">såbmelatj</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>Finn</t>
-</tg>
-<tg xml:lang="swe">
-<t>finländare</t>
-</tg>
-<tg xml:lang="nob">
-<t>finlender</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="N" psdpDBno="3801">sådje</l>
 </lg>
 <mg>
@@ -32368,7 +32400,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="6868">sågastak</l>
+<l pos="N" psdpDBno="6868">sågástak</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -37794,17 +37826,17 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="2140">vuanntsa</l>
+<l pos="N" psdpDBno="2186">vuanntsáåres</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>chicken</t>
+<t>rooster, cock</t>
 </tg>
 <tg xml:lang="swe">
-<t>höna</t>
+<t>tupp</t>
 </tg>
 <tg xml:lang="nob">
-<t>høns</t>
+<t>hane</t>
 </tg>
 </mg>
 </e>
@@ -38515,17 +38547,17 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="2186">vuontsaåres</l>
+<l pos="N" psdpDBno="91246">vuontses</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>rooster, cock</t>
+<t>chicken</t>
 </tg>
 <tg xml:lang="swe">
-<t>tupp</t>
+<t>höna</t>
 </tg>
 <tg xml:lang="nob">
-<t>hane</t>
+<t>høns</t>
 </tg>
 </mg>
 </e>
@@ -39459,7 +39491,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="2243">åhpadäddje</l>
+<l pos="N" psdpDBno="2243">åhpådäddje</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -40545,6 +40577,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>demokrati</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91251">äldja</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>moose</t>
+</tg>
+<tg xml:lang="swe">
+<t>älg</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>

@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2019-04-12T16:46:30+02:00
+** Generated at: 2019-05-05T21:34:59+02:00
 
 
 </sourcenote>
@@ -360,22 +360,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>fordrive tiden</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="V" psdpDBno="3674">avvstot</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>scoop, bail out</t>
-</tg>
-<tg xml:lang="swe">
-<t>ösa</t>
-</tg>
-<tg xml:lang="nob">
-<t>ause</t>
 </tg>
 </mg>
 </e>
@@ -777,6 +761,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>slippe reinflokken for spredning</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="3674">ávvstot</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>scoop, bail out</t>
+</tg>
+<tg xml:lang="swe">
+<t>ösa</t>
+</tg>
+<tg xml:lang="nob">
+<t>ause</t>
 </tg>
 </mg>
 </e>
@@ -2771,13 +2771,13 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>come with something</t>
+<t>come (with something)</t>
 </tg>
 <tg xml:lang="swe">
-<t>komma med något</t>
+<t>komma (med något)</t>
 </tg>
 <tg xml:lang="nob">
-<t>komme med</t>
+<t>komme (med)</t>
 </tg>
 </mg>
 </e>
@@ -2799,7 +2799,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="4156">bådadallat</l>
+<l pos="V" psdpDBno="4156">bådádallat</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -2943,7 +2943,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="244">båktjanit</l>
+<l pos="V" psdpDBno="244">båktjánit</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -9272,7 +9272,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="91068">gåvganit</l>
+<l pos="V" psdpDBno="91068">gåvvgánit</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -10216,7 +10216,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="853">hålajdahttet</l>
+<l pos="V" psdpDBno="853">hålájdahttet</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -11561,7 +11561,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="6051">jållarit</l>
+<l pos="V" psdpDBno="6051">jållárit</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -11588,22 +11588,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>snu om, vende tilbake</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="V" psdpDBno="959">jårrgat</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>turn over</t>
-</tg>
-<tg xml:lang="swe">
-<t>vända om</t>
-</tg>
-<tg xml:lang="nob">
-<t>vende, snu</t>
 </tg>
 </mg>
 </e>
@@ -16331,30 +16315,14 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="4288">radasit</l>
+<l pos="V" psdpDBno="4288">radastit</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>unstitch</t>
+<t>split open, unstitch (quickly)</t>
 </tg>
 <tg xml:lang="swe">
-<t>sprätta upp</t>
-</tg>
-<tg xml:lang="nob">
-<t>en søm som rakner</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="V" psdpDBno="5062">radastit</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>unstitch</t>
-</tg>
-<tg xml:lang="swe">
-<t>sprätta upp</t>
+<t>sprätta upp (snabbt)</t>
 </tg>
 <tg xml:lang="nob">
 <t>sprette opp</t>
@@ -16399,7 +16367,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>slit open, unstitch</t>
+<t>split open, unstitch</t>
 </tg>
 <tg xml:lang="swe">
 <t>fläka upp, sprätta upp</t>
@@ -22064,7 +22032,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="4379">sårbmanit</l>
+<l pos="V" psdpDBno="4379">sårbmánit</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -26804,6 +26772,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="91247">vusstit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>make cheese</t>
+</tg>
+<tg xml:lang="swe">
+<t>göra ost</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="2202">vuäbbdet</l>
 </lg>
 <mg>
@@ -27300,7 +27284,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="2060">åjaldahttet</l>
+<l pos="V" psdpDBno="2060">åjáldahttet</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -27316,7 +27300,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="4460">åjaldit</l>
+<l pos="V" psdpDBno="4460">åjáldit</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
