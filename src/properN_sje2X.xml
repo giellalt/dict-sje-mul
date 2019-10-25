@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2019-06-07T13:39:45+02:00
+** Generated at: 2019-09-13T09:47:33+03:00
 
 
 </sourcenote>
@@ -395,6 +395,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>Pite elv</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91260">Bidumsábme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Pite Saami</t>
+</tg>
+<tg xml:lang="swe">
+<t>pitesamisk</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
