@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2019-06-01T18:07:38+02:00
+** Generated at: 2019-10-25T09:51:06+02:00
 
 
 </sourcenote>
@@ -3277,6 +3277,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="90529">bessuk</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>tall thin young birch tree</t>
+</tg>
+<tg xml:lang="swe">
+<t>lång smal ungbjörk</t>
+</tg>
+<tg xml:lang="nob">
+<t>lange smale ungbjørker</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="3308">bibliotähkka</l>
 </lg>
 <mg>
@@ -3913,22 +3929,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>skje</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="90529">bissuk</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>tall thin young birch tree</t>
-</tg>
-<tg xml:lang="swe">
-<t>lång smal ungbjörk</t>
-</tg>
-<tg xml:lang="nob">
-<t>lange smale ungbjørker</t>
 </tg>
 </mg>
 </e>
@@ -14905,7 +14905,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="841">hevel</l>
+<l pos="N" psdpDBno="841">hevil</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -16964,6 +16964,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>tranebær</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91261">jähkke</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>glacier</t>
+</tg>
+<tg xml:lang="swe">
+<t>glaciär, jökel</t>
+</tg>
+<tg xml:lang="nob">
+<t>isbre</t>
 </tg>
 </mg>
 </e>
@@ -20489,6 +20505,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>vinterskinn av reinkalv</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91264">mihásvuohta</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>proudness</t>
+</tg>
+<tg xml:lang="swe">
+<t>stolthet</t>
+</tg>
+<tg xml:lang="nob">
+<t>stolthet</t>
 </tg>
 </mg>
 </e>
@@ -24790,6 +24822,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91267">rávkalvis</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>requirement</t>
+</tg>
+<tg xml:lang="swe">
+<t>krav</t>
+</tg>
+<tg xml:lang="nob">
+<t>krav</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="2679">rávvdo</l>
 </lg>
 <mg>
@@ -26300,13 +26348,13 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>grindstone</t>
+<t>large whetstone</t>
 </tg>
 <tg xml:lang="swe">
-<t>slipsten</t>
+<t>större brynsten</t>
 </tg>
 <tg xml:lang="nob">
-<t>slipestein</t>
+<t>større brynsten</t>
 </tg>
 </mg>
 </e>
@@ -29227,7 +29275,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="78">skurrke</l>
+<l pos="N" psdpDBno="78">skurrki</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -29901,17 +29949,17 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="2674">slihppimgärrge</l>
+<l pos="N" psdpDBno="91258">sliehpe</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>whetstone</t>
+<t>old snowshoe</t>
 </tg>
 <tg xml:lang="swe">
-<t>slipsten</t>
+<t>gammal snösko</t>
 </tg>
 <tg xml:lang="nob">
-<t>slipestein</t>
+<t/>
 </tg>
 </mg>
 </e>
@@ -29928,6 +29976,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>kreatur, buskap (ikke rein)</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="2674">slijjpimgärrge</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>whetstone</t>
+</tg>
+<tg xml:lang="swe">
+<t>slipsten</t>
+</tg>
+<tg xml:lang="nob">
+<t>slipestein</t>
 </tg>
 </mg>
 </e>
@@ -32224,7 +32288,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="1798">svierek</l>
+<l pos="N" psdpDBno="1798">sverik</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -37168,6 +37232,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="2119">velguk</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>white reindeer, also referring to white reindeer hide shoes</t>
+</tg>
+<tg xml:lang="swe">
+<t>vit ren, även om vita bällingskor</t>
+</tg>
+<tg xml:lang="nob">
+<t>hvit rein</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="5438">vidajagak</l>
 </lg>
 <mg>
@@ -37597,22 +37677,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>orden, sammenheng</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="2119">vilguk</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>white reindeer, also referring to white reindeer hide shoes</t>
-</tg>
-<tg xml:lang="swe">
-<t>vit ren, även om vita bällingskor</t>
-</tg>
-<tg xml:lang="nob">
-<t>hvit rein</t>
 </tg>
 </mg>
 </e>
