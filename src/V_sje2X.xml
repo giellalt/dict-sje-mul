@@ -9,9 +9,9 @@ You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
 For the full license text, see the link above.</lic>
-<ref>Lexicographic work done by 
+<ref>Lexicographic work done by
 	 Nils-Henrik Bengtsson, Marianne Eriksson, Inger Fjällås, Eva-Karin Rosenberg, Gry Helen Sivertsen, Valborg Sjaggo, Dagny Skaile, Peter Steggo, Olve Utne and Joshua Wilbur.
-	 With technical support from Giellatekno at UiT. 
+	 With technical support from Giellatekno at UiT.
 	 Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
 <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
@@ -27894,7 +27894,39 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="6233">ij</l>
+<l context="manne" pos="V" psdpDBno="6233">ij</l>
+<analysis>Neg_Prs_Sg3</analysis>
+<mini_paradigm>
+<analysis ms="Neg_Prs_Sg1">
+<wordform>iv</wordform>
+</analysis>
+<analysis ms="Neg_Prs_Sg2">
+<wordform>i</wordform>
+</analysis>
+<analysis ms="Neg_Prs_Sg3">
+<wordform>ij</wordform>
+</analysis>
+<analysis ms="Neg_Prs_Du1">
+<wordform>en</wordform>
+</analysis>
+<analysis ms="Neg_Prs_Du2">
+<wordform>ehpen</wordform>
+</analysis>
+<analysis ms="Neg_Prs_Du3">
+<wordform>iebá</wordform>
+</analysis>
+<analysis ms="Neg_Prs_Pl1">
+<wordform>iehpe</wordform>
+<wordform>ep</wordform>
+</analysis>
+<analysis ms="Neg_Prs_Pl2">
+<wordform>ehpit</wordform>
+</analysis>
+<analysis ms="Neg_Prs_Pl3">
+<wordform>e</wordform>
+<wordform>ie</wordform>
+</analysis>
+</mini_paradigm>
 </lg>
 <mg>
 <tg xml:lang="eng">
