@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2019-10-30T07:42:30+02:00
+** Generated at: 2019-11-28T07:11:18+01:00
 
 
 </sourcenote>
@@ -8211,6 +8211,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91271">eddnu</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>maternal uncle</t>
+</tg>
+<tg xml:lang="swe">
+<t>morbror</t>
+</tg>
+<tg xml:lang="nob">
+<t>onkel (mors bror)</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="3979">ekologiddja</l>
 </lg>
 <mg>
@@ -9032,7 +9048,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>grease made from hooves</t>
+<t>hoof suet</t>
 </tg>
 <tg xml:lang="swe">
 <t>klövflott</t>
@@ -21808,6 +21824,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="90555">nager</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>sleep, tiredness</t>
+</tg>
+<tg xml:lang="swe">
+<t>sömn, trötthet</t>
+</tg>
+<tg xml:lang="nob">
+<t>søvn</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="4998">nageralmatj</l>
 </lg>
 <mg>
@@ -21979,22 +22011,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>skinnlue</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="90555">náger</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>sleep, tiredness</t>
-</tg>
-<tg xml:lang="swe">
-<t>sömn, trötthet</t>
-</tg>
-<tg xml:lang="nob">
-<t>søvn</t>
 </tg>
 </mg>
 </e>
@@ -24902,6 +24918,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="2582">remmsti</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>one-year-old reindeer calf after its mother has deserted it</t>
+</tg>
+<tg xml:lang="swe">
+<t>ettårig renkalv, när den blivit bortjagad av vajan</t>
+</tg>
+<tg xml:lang="nob">
+<t>reinkalv, ett år</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="1403">ribbre</l>
 </lg>
 <mg>
@@ -25249,22 +25281,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>lysere brun, farge på reinen</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="2582">rimmsti</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>one-year-old reindeer calf after its mother has deserted it</t>
-</tg>
-<tg xml:lang="swe">
-<t>ettårig renkalv, när den blivit bortjagad av vajan</t>
-</tg>
-<tg xml:lang="nob">
-<t>reinkalv, ett år</t>
 </tg>
 </mg>
 </e>
@@ -27470,7 +27486,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>shade</t>
+<t>shade, shadow</t>
 </tg>
 <tg xml:lang="swe">
 <t>skugga</t>
@@ -31615,22 +31631,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="1761">suobmelatj</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>Finn</t>
-</tg>
-<tg xml:lang="swe">
-<t>finländare</t>
-</tg>
-<tg xml:lang="nob">
-<t>finlender</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="N" psdpDBno="1762">suodja</l>
 </lg>
 <mg>
@@ -31747,7 +31747,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>shadow</t>
+<t>shadow. shade</t>
 </tg>
 <tg xml:lang="swe">
 <t>skugga</t>
@@ -32443,6 +32443,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>fotfeste (is eller snø)</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="1761">såbmelatj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Finn</t>
+</tg>
+<tg xml:lang="swe">
+<t>finländare</t>
+</tg>
+<tg xml:lang="nob">
+<t>finlender</t>
 </tg>
 </mg>
 </e>
@@ -39070,6 +39086,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>skål av flettede røtter</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91268">väddja</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>road, trail</t>
+</tg>
+<tg xml:lang="swe">
+<t>väg</t>
+</tg>
+<tg xml:lang="nob">
+<t>vei</t>
 </tg>
 </mg>
 </e>
