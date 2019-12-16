@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2019-11-05T17:07:20+02:00
+** Generated at: 2019-12-16T10:44:53+01:00
 
 
 </sourcenote>
@@ -2511,7 +2511,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="90640">buollet</l>
+<l pos="V" psdpDBno="91272">buollet</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -3594,6 +3594,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>gjøres</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91278">dahkaduvvut</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>be done, be made</t>
+</tg>
+<tg xml:lang="swe">
+<t>göras</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -6069,6 +6085,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="506">gahtsot</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>hang, hang up</t>
+</tg>
+<tg xml:lang="swe">
+<t>hänga</t>
+</tg>
+<tg xml:lang="nob">
+<t>henge, henge opp</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="502">gahttjat</l>
 </lg>
 <mg>
@@ -6533,22 +6565,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="506">gáhttsot</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>hang, hang up</t>
-</tg>
-<tg xml:lang="swe">
-<t>hänga</t>
-</tg>
-<tg xml:lang="nob">
-<t>henge, henge opp</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="V" psdpDBno="510">gájjdat</l>
 </lg>
 <mg>
@@ -6992,6 +7008,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>ramle på rygg</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91293">gehtudit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>tell long stories repeatedly; keep going on about</t>
+</tg>
+<tg xml:lang="swe">
+<t>berätta långt och ofta</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -12665,7 +12697,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="2438">livvsut</l>
+<l pos="V" psdpDBno="2438">livvsot</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -13268,6 +13300,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>bli frelst</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91277">lånot</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>trade, loan, borrow</t>
+</tg>
+<tg xml:lang="swe">
+<t>byta, låna</t>
+</tg>
+<tg xml:lang="nob">
+<t>låne</t>
 </tg>
 </mg>
 </e>
@@ -16571,6 +16619,38 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="91282">rájdnanit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>become clean</t>
+</tg>
+<tg xml:lang="swe">
+<t>bli ren</t>
+</tg>
+<tg xml:lang="nob">
+<t>bli ren</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91294">rájdnodit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>clean</t>
+</tg>
+<tg xml:lang="swe">
+<t>rensa</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="1380">rájgadit</l>
 </lg>
 <mg>
@@ -19520,6 +19600,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="91276">skierastit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>ski downhill; ski slalom</t>
+</tg>
+<tg xml:lang="swe">
+<t>åka slalom, åka skidor utför</t>
+</tg>
+<tg xml:lang="nob">
+<t>kjøre slalom, kjøre ski utforbakke</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="5129">skihppát</l>
 </lg>
 <mg>
@@ -20848,7 +20944,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="90259">spädtjut</l>
+<l pos="V" psdpDBno="90259">spädtjot</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -24039,7 +24135,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>set free, liberate</t>
+<t>be set free, be liberated</t>
 </tg>
 <tg xml:lang="swe">
 <t>befrias</t>
@@ -25653,6 +25749,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="2567">vellidit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>lay down and refuse to continue</t>
+</tg>
+<tg xml:lang="swe">
+<t>lägga sig och vila och vägra gå vidare</t>
+</tg>
+<tg xml:lang="nob">
+<t>legge seg og hvile, og nekte å gå videre</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="3322">venudit</l>
 </lg>
 <mg>
@@ -26080,22 +26192,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>hvile en stund</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="V" psdpDBno="2567">villidit</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>lay down and refuse to continue</t>
-</tg>
-<tg xml:lang="swe">
-<t>lägga sig och vila och vägra gå vidare</t>
-</tg>
-<tg xml:lang="nob">
-<t>legge seg og hvile, og nekte å gå videre</t>
 </tg>
 </mg>
 </e>
