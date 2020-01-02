@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2019-12-16T10:44:53+01:00
+** Generated at: 2020-01-02T10:17:33+01:00
 
 
 </sourcenote>
@@ -5031,7 +5031,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>drive, push ahead reindeer</t>
+<t>drive, push ahead</t>
 </tg>
 <tg xml:lang="swe">
 <re>ex. om renar</re>
@@ -9596,10 +9596,10 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>smell</t>
+<t>smell, sniff</t>
 </tg>
 <tg xml:lang="swe">
-<t>lukta</t>
+<t>lukta, vädra</t>
 </tg>
 <tg xml:lang="nob">
 <t>lukte</t>
@@ -23553,17 +23553,49 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="91300">tjulestit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>kiss</t>
+</tg>
+<tg xml:lang="swe">
+<t>pussa, kyssa</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="3605">tjullit</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>clean fish</t>
+<t>gut fish, clean fish</t>
 </tg>
 <tg xml:lang="swe">
 <t>rensa fisk</t>
 </tg>
 <tg xml:lang="nob">
 <t>rense fisk</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91299">tjullit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>spit, spit out</t>
+</tg>
+<tg xml:lang="swe">
+<t>spotta, spotta ut</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -25235,22 +25267,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="2078">vanadit</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>stretch</t>
-</tg>
-<tg xml:lang="swe">
-<t>tänja, töja, sträcka</t>
-</tg>
-<tg xml:lang="nob">
-<t>strekke, tøye</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="V" psdpDBno="6099">vanaldahttet</l>
 </lg>
 <mg>
@@ -25262,6 +25278,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>tøye ut</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="2078">vanádit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>stretch</t>
+</tg>
+<tg xml:lang="swe">
+<t>tänja, töja, sträcka</t>
+</tg>
+<tg xml:lang="nob">
+<t>strekke, tøye</t>
 </tg>
 </mg>
 </e>

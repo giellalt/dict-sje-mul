@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2019-12-11T17:59:49+02:00
+** Generated at: 2019-12-26T13:29:43+01:00
 
 
 </sourcenote>
@@ -10111,6 +10111,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>svalt vær på sommeren</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91297">gállo</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>big stone, boulder</t>
+</tg>
+<tg xml:lang="swe">
+<t>stenbumling, stor sten</t>
+</tg>
+<tg xml:lang="nob">
+<t>en stor stein</t>
 </tg>
 </mg>
 </e>
@@ -20334,7 +20350,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="90434">miedem</l>
+<l pos="N" psdpDBno="1149">mieddem</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -20414,22 +20430,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="1149">mierem</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>roe</t>
-</tg>
-<tg xml:lang="swe">
-<t>fiskrom</t>
-</tg>
-<tg xml:lang="nob">
-<t>rogn</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="N" psdpDBno="1160">mierra</l>
 </lg>
 <mg>
@@ -20489,6 +20489,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>beslutning</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="90434">mierrem</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>roe</t>
+</tg>
+<tg xml:lang="swe">
+<t>fiskrom</t>
+</tg>
+<tg xml:lang="nob">
+<t>rogn</t>
 </tg>
 </mg>
 </e>
@@ -25932,7 +25948,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>scurf, worms</t>
+<t>worm</t>
 </tg>
 <tg xml:lang="swe">
 <t>skorvar, maskar</t>
