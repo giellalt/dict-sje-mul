@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2020-01-20T10:19:35+01:00
+** Generated at: 2020-01-22T17:09:22+01:00
 
 
 </sourcenote>
@@ -21872,6 +21872,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="91304">suällkedit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>snitch, snatch, lift (steal)</t>
+</tg>
+<tg xml:lang="swe">
+<t>norpa, snatta</t>
+</tg>
+<tg xml:lang="nob">
+<t>naske; småstjele; knabbe</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="1789">svajbastit</l>
 </lg>
 <mg>
@@ -25448,13 +25464,13 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>become caught, catch</t>
+<t>become caught, become stuck</t>
 </tg>
 <tg xml:lang="swe">
-<t>fastna, fånga</t>
+<t>fastna; sätta sig fast; gå fast</t>
 </tg>
 <tg xml:lang="nob">
-<t>bli sittende fast, fange</t>
+<t>fastne; sette seg fast; gå fast</t>
 </tg>
 </mg>
 </e>
@@ -27120,6 +27136,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>vente</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91305">våvvdåt</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>become caught, become stuck</t>
+</tg>
+<tg xml:lang="swe">
+<t>fastna; sätta sig fast; gå fast</t>
+</tg>
+<tg xml:lang="nob">
+<t>fastne; sette seg fast; gå fast</t>
 </tg>
 </mg>
 </e>
