@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2020-02-10T14:09:06+02:00
+** Generated at: 2020-02-28T09:42:07+02:00
 
 
 </sourcenote>
@@ -19680,7 +19680,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="1645">skrihpput</l>
+<l pos="V" psdpDBno="1645">skrehpput</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -23333,10 +23333,10 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>stand upright</t>
+<t>stand upright, stand</t>
 </tg>
 <tg xml:lang="swe">
-<t>stå upprätt</t>
+<t>stå upprätt, stå</t>
 </tg>
 <tg xml:lang="nob">
 <t>stå</t>
