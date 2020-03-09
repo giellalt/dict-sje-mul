@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2020-03-04T13:46:06+02:00
+** Generated at: 2020-03-09T07:15:06+02:00
 
 
 </sourcenote>
@@ -2525,6 +2525,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="151">bassemánno</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>November</t>
+</tg>
+<tg xml:lang="swe">
+<t>november</t>
+</tg>
+<tg xml:lang="nob">
+<t>november</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="4695">bassembärrgo</l>
 </lg>
 <mg>
@@ -3144,22 +3160,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>bølge på vannet</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="151">bássemánno</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>November</t>
-</tg>
-<tg xml:lang="swe">
-<t>november</t>
-</tg>
-<tg xml:lang="nob">
-<t>november</t>
 </tg>
 </mg>
 </e>
@@ -8596,6 +8596,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="4049">febir</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>fever</t>
+</tg>
+<tg xml:lang="swe">
+<t>feber</t>
+</tg>
+<tg xml:lang="nob">
+<t>feber</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="4501">ferrum</l>
 </lg>
 <mg>
@@ -8607,22 +8623,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>kadaver som rovdyr ruller i gjørme</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="4049">fieber</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>fever</t>
-</tg>
-<tg xml:lang="swe">
-<t>feber</t>
-</tg>
-<tg xml:lang="nob">
-<t>feber</t>
 </tg>
 </mg>
 </e>
@@ -32404,7 +32404,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>untamed castrated reindeer</t>
+<t>untamed castrated reindeer bull</t>
 </tg>
 <tg xml:lang="swe">
 <t>otämjd kastrerad hanren</t>
@@ -36576,6 +36576,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="6053">uvve</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>current in a lake</t>
+</tg>
+<tg xml:lang="swe">
+<t>strömt vatten på sjö</t>
+</tg>
+<tg xml:lang="nob">
+<t>strømmende vann i en sjø</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="2042">vaddas</l>
 </lg>
 <mg>
@@ -40737,22 +40753,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>førskole</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="6053">åvve</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>current in a lake</t>
-</tg>
-<tg xml:lang="swe">
-<t>strömt vatten på sjö</t>
-</tg>
-<tg xml:lang="nob">
-<t>strømmende vann i en sjø</t>
 </tg>
 </mg>
 </e>
