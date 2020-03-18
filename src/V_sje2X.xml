@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2020-03-03T16:35:48+02:00
+** Generated at: 2020-03-18T16:39:04+02:00
 
 
 </sourcenote>
@@ -27616,6 +27616,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>drepes</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="90113">ållet</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>reach for something</t>
+</tg>
+<tg xml:lang="swe">
+<t>nå (fram till, upp till), räcka (fram till)</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
