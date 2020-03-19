@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2020-03-09T07:15:06+02:00
+** Generated at: 2020-03-19T10:07:51+02:00
 
 
 </sourcenote>
@@ -797,7 +797,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="11">áhkka</l>
+<l pos="N" psdpDBno="11">áhkká</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -877,7 +877,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="2896">áhtjáhkka</l>
+<l pos="N" psdpDBno="2896">áhtjáhkká</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -2513,7 +2513,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>weekend</t>
+<t>weekend, holidy</t>
 </tg>
 <tg xml:lang="swe">
 <t>helg, veckoslut</t>
@@ -16553,7 +16553,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="4325">juhksáhkka</l>
+<l pos="N" psdpDBno="4325">Juhksáhkká</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -19726,7 +19726,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="3062">maddaráhkka</l>
+<l pos="N" psdpDBno="3062">maddaráhkká</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -26584,7 +26584,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="4323">Saráhkka</l>
+<l pos="N" psdpDBno="4323">Saráhkká</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -33888,7 +33888,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="90897">tjidtjáhkka</l>
+<l pos="N" psdpDBno="90897">tjidtjáhkká</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -34352,7 +34352,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="2894">tjitjáhkka</l>
+<l pos="N" psdpDBno="2894">tjitjáhkká</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -36288,7 +36288,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="4324">Ukksáhkka</l>
+<l pos="N" psdpDBno="4324">Ukksáhkká</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
