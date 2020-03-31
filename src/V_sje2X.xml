@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2020-03-19T13:36:23+02:00
+** Generated at: 2020-03-31T11:34:54+03:00
 
 
 </sourcenote>
@@ -24627,6 +24627,54 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="91315">tseggidit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>rise up</t>
+</tg>
+<tg xml:lang="swe">
+<t>resa sig</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="90234">tseggiduvvut</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>be constructed, be erected</t>
+</tg>
+<tg xml:lang="swe">
+<t>timras, resas upp</t>
+</tg>
+<tg xml:lang="nob">
+<t>tømret, ble bygd</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="2003">tseggit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>build, set up, raise</t>
+</tg>
+<tg xml:lang="swe">
+<t>resa upp något, bygga</t>
+</tg>
+<tg xml:lang="nob">
+<t>reise  opp</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="90745">tsevvut</l>
 </lg>
 <mg>
@@ -24750,38 +24798,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>mase</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="V" psdpDBno="90234">tsiggiduvvut</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>be constructed, be erected</t>
-</tg>
-<tg xml:lang="swe">
-<t>timras, resas upp</t>
-</tg>
-<tg xml:lang="nob">
-<t>tømret, ble bygd</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="V" psdpDBno="2003">tsiggit</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>build, set up, raise</t>
-</tg>
-<tg xml:lang="swe">
-<t>resa upp något, bygga</t>
-</tg>
-<tg xml:lang="nob">
-<t>reise  opp</t>
 </tg>
 </mg>
 </e>
