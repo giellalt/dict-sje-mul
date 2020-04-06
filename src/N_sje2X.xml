@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2020-04-05T14:20:13+03:00
+** Generated at: 2020-04-06T14:04:58+03:00
 
 
 </sourcenote>
@@ -9348,6 +9348,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="90545">gaskamierre</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>halfway, average</t>
+</tg>
+<tg xml:lang="swe">
+<t>halvvägs, genomsnitt</t>
+</tg>
+<tg xml:lang="nob">
+<t>halvveis, gjennomsnitt</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="559">gaskatj</l>
 </lg>
 <mg>
@@ -16489,6 +16505,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91320">jugastak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>sip, dram, shot (of alcohol)</t>
+</tg>
+<tg xml:lang="swe">
+<t>sup, klunk</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="930">jugglo</l>
 </lg>
 <mg>
@@ -17412,6 +17444,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>kommune</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91318">konjáhkka</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>cognac</t>
+</tg>
+<tg xml:lang="swe">
+<t>cognac</t>
+</tg>
+<tg xml:lang="nob">
+<t>konjakk</t>
 </tg>
 </mg>
 </e>
@@ -20329,6 +20377,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>måneskinn</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91317">márrkná</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>market</t>
+</tg>
+<tg xml:lang="swe">
+<t>marknad</t>
+</tg>
+<tg xml:lang="nob">
+<t>marked</t>
 </tg>
 </mg>
 </e>
@@ -28010,7 +28074,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="2521">sissmutj</l>
+<l pos="N" psdpDBno="2521">sissŋutj</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -40858,13 +40922,13 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>forefather, ancestor, parent</t>
+<t>forefather, ancestor; parent (archaic)</t>
 </tg>
 <tg xml:lang="swe">
-<t>förfader, förälder</t>
+<t>förfader; förälder (gammaldags)</t>
 </tg>
 <tg xml:lang="nob">
-<t>forfader, forelder</t>
+<t>forfader</t>
 </tg>
 </mg>
 </e>
