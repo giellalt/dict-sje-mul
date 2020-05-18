@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2020-05-14T19:40:07+03:00
+** Generated at: 2020-05-18T11:51:15+03:00
 
 
 </sourcenote>
@@ -40067,6 +40067,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91363">ådårdibme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>phlebotomy, bloodletting</t>
+</tg>
+<tg xml:lang="swe">
+<t>åderlåtning</t>
+</tg>
+<tg xml:lang="nob">
+<t>årelating</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="3077">ågge</l>
 </lg>
 <mg>
@@ -40848,6 +40864,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>nyfødt valp</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91362">årårdibme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>phlebotomy, bloodletting</t>
+</tg>
+<tg xml:lang="swe">
+<t>åderlåtning</t>
+</tg>
+<tg xml:lang="nob">
+<t>årelating</t>
 </tg>
 </mg>
 </e>
