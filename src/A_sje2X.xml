@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2020-05-15T08:50:46+03:00
+** Generated at: 2020-05-21T13:57:39+03:00
 
 
 </sourcenote>
@@ -1579,6 +1579,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="90122">lieggas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>warm</t>
+</tg>
+<tg xml:lang="swe">
+<t>varm</t>
+</tg>
+<tg xml:lang="nob">
+<t>varm</t>
 </tg>
 </mg>
 </e>
