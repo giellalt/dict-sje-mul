@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2020-11-20T13:30:50+02:00
+** Generated at: 2020-12-25T11:29:15+02:00
 
 
 </sourcenote>
@@ -25990,22 +25990,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="90933">ruovdegárre</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>iron bowl</t>
-</tg>
-<tg xml:lang="swe">
-<t>järnskål</t>
-</tg>
-<tg xml:lang="nob">
-<t>jernskål</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="N" psdpDBno="5080">ruppsisruohtas</l>
 </lg>
 <mg>
@@ -26227,6 +26211,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>jernalder</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="90933">ruävvdegárre</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>iron bowl</t>
+</tg>
+<tg xml:lang="swe">
+<t>järnskål</t>
+</tg>
+<tg xml:lang="nob">
+<t>jernskål</t>
 </tg>
 </mg>
 </e>
