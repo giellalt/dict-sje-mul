@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2020-11-11T12:52:11+02:00
+** Generated at: 2021-01-22T08:32:50+02:00
 
 
 </sourcenote>
@@ -2191,6 +2191,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="5285">biváldit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>thaw, become milder</t>
+</tg>
+<tg xml:lang="swe">
+<t>tina, bli mildare väder</t>
+</tg>
+<tg xml:lang="nob">
+<t>tine, bli mildere i været</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="4416">bivkidit</l>
 </lg>
 <mg>
@@ -2746,22 +2762,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>blåse med munnen</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="V" psdpDBno="5285">buvaldit</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>thaw</t>
-</tg>
-<tg xml:lang="swe">
-<t>tina, bli mildare väder</t>
-</tg>
-<tg xml:lang="nob">
-<t>tine, bli mildere i været</t>
 </tg>
 </mg>
 </e>
