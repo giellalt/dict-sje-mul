@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2021-02-26T18:26:17+02:00
+** Generated at: 2021-03-03T14:31:34+02:00
 
 
 </sourcenote>
@@ -34176,6 +34176,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="90369">tjálos</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>written text</t>
+</tg>
+<tg xml:lang="swe">
+<t>skrift</t>
+</tg>
+<tg xml:lang="nob">
+<t>skrift</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="1884">tjátsek</l>
 </lg>
 <mg>
@@ -34507,22 +34523,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>definisjon, forklaring</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="90369">tjielos</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>written text</t>
-</tg>
-<tg xml:lang="swe">
-<t>skrift</t>
-</tg>
-<tg xml:lang="nob">
-<t>skrift</t>
 </tg>
 </mg>
 </e>
@@ -39639,7 +39639,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>reluctance</t>
+<t>aversion, reluctance</t>
 </tg>
 <tg xml:lang="swe">
 <t>motvilja</t>
