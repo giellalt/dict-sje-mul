@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2021-02-23T16:13:03+02:00
+** Generated at: 2021-03-29T07:37:07+03:00
 
 
 </sourcenote>
@@ -11433,6 +11433,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="91408">juogeduvvut</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>be divided up, be distributed</t>
+</tg>
+<tg xml:lang="swe">
+<t>delas, fördelas</t>
+</tg>
+<tg xml:lang="nob">
+<t>deles, fordeles</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="3788">juohkádit</l>
 </lg>
 <mg>
@@ -17266,7 +17282,8 @@ For the full license text, see the link above.</lic>
 <t>go across (lake, road, creek; for animals)</t>
 </tg>
 <tg xml:lang="swe">
-<t>fara över (sjö, väg, bäck; om djur)</t>
+<re>om djur</re>
+<t>fara över (sjö, väg, bäck)</t>
 </tg>
 <tg xml:lang="nob">
 <t>fare over (sjø, veg, bekk)</t>
@@ -25347,6 +25364,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="91411">vaddeduvvut</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>be given</t>
+</tg>
+<tg xml:lang="swe">
+<t>ges</t>
+</tg>
+<tg xml:lang="nob">
+<t>bli gitt</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="2044">vaddet</l>
 </lg>
 <mg>
@@ -25941,6 +25974,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="90396">vellidasstet</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>take a break</t>
+</tg>
+<tg xml:lang="swe">
+<t>vila en stund</t>
+</tg>
+<tg xml:lang="nob">
+<t>hvile en stund</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="2567">vellidit</l>
 </lg>
 <mg>
@@ -25952,6 +26001,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>legge seg og hvile, og nekte å gå videre</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="3024">veludallat</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>rest a little bit</t>
+</tg>
+<tg xml:lang="swe">
+<t>vila lite</t>
+</tg>
+<tg xml:lang="nob">
+<t>hvile litt</t>
 </tg>
 </mg>
 </e>
@@ -26373,22 +26438,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="90396">villidasstet</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>take a break</t>
-</tg>
-<tg xml:lang="swe">
-<t>vila en stund</t>
-</tg>
-<tg xml:lang="nob">
-<t>hvile en stund</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="V" psdpDBno="90673">villsjot</l>
 </lg>
 <mg>
@@ -26400,22 +26449,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t/>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="V" psdpDBno="3024">villudallat</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>rest a little bit</t>
-</tg>
-<tg xml:lang="swe">
-<t>vila lite</t>
-</tg>
-<tg xml:lang="nob">
-<t>hvile litt</t>
 </tg>
 </mg>
 </e>
