@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2021-11-21T19:18:59+02:00
+** Generated at: 2021-12-16T09:43:33+02:00
 
 
 </sourcenote>
@@ -1517,11 +1517,27 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91416">árraidja</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>nighttime</t>
+</tg>
+<tg xml:lang="swe">
+<t>morgonsnatt</t>
+</tg>
+<tg xml:lang="nob">
+<t>nattmorgen</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="5396">árrak</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>awake in the morning</t>
+<t>morning person</t>
 </tg>
 <tg xml:lang="swe">
 <t>morgonpigg</t>
@@ -10884,6 +10900,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="4569">giedtsvuolle</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>mouth of a river or stream</t>
+</tg>
+<tg xml:lang="swe">
+<t>älv-, bäckmynning</t>
+</tg>
+<tg xml:lang="nob">
+<t>elve-, bekkemunning</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="587">giehka</l>
 </lg>
 <mg>
@@ -11568,22 +11600,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>snigel</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="4569">gietsvuolle</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>mouth of a river or stream</t>
-</tg>
-<tg xml:lang="swe">
-<t>älv-, bäckmynning</t>
-</tg>
-<tg xml:lang="nob">
-<t>elve-, bekkemunning</t>
 </tg>
 </mg>
 </e>
