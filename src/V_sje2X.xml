@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2021-10-25T15:13:27+03:00
+** Generated at: 2022-02-10T13:40:05+02:00
 
 
 </sourcenote>
@@ -285,7 +285,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="4437">arranit</l>
+<l pos="V" psdpDBno="4437">arránit</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -5412,6 +5412,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="5608">däbbot</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>become soaked</t>
+</tg>
+<tg xml:lang="swe">
+<t>bli blött</t>
+</tg>
+<tg xml:lang="nob">
+<t>bløtlagt</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="433">däbbtjot</l>
 </lg>
 <mg>
@@ -5423,22 +5439,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>trykke, kna</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="V" psdpDBno="5608">däbbut</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>become soaked</t>
-</tg>
-<tg xml:lang="swe">
-<t>bli blött</t>
-</tg>
-<tg xml:lang="nob">
-<t>bløtlagt</t>
 </tg>
 </mg>
 </e>
@@ -7157,6 +7157,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="4831">giedtsedit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>make narrower</t>
+</tg>
+<tg xml:lang="swe">
+<t>göra smalare</t>
+</tg>
+<tg xml:lang="nob">
+<t>lage smalere</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="606">giegadit</l>
 </lg>
 <mg>
@@ -7456,22 +7472,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>øyekast</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="V" psdpDBno="4831">gietsedit</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>make narrower</t>
-</tg>
-<tg xml:lang="swe">
-<t>göra smalare</t>
-</tg>
-<tg xml:lang="nob">
-<t>lage smalere</t>
 </tg>
 </mg>
 </e>
@@ -21100,6 +21100,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>splittes, oppløses, spre seg</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91420">spuŋŋit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>bridge, build a bridge</t>
+</tg>
+<tg xml:lang="swe">
+<t>spånga</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
