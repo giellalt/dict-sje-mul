@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2022-02-10T20:29:12+01:00
+** Generated at: 2022-02-19T10:23:55+02:00
 
 
 </sourcenote>
@@ -7491,22 +7491,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="4192">dubbos</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>packsaddle blanket</t>
-</tg>
-<tg xml:lang="swe">
-<t>klövjeunderlag</t>
-</tg>
-<tg xml:lang="nob">
-<t>underlag for å ha under kløven</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="N" psdpDBno="382">dubme</l>
 </lg>
 <mg>
@@ -7870,6 +7854,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91431">dåbbos</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>packsaddle blanket</t>
+</tg>
+<tg xml:lang="swe">
+<t>klövjeunderlag</t>
+</tg>
+<tg xml:lang="nob">
+<t>underlag for å ha under kløven</t>
 </tg>
 </mg>
 </e>
@@ -15080,6 +15080,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91425">hávva</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>sea, ocean</t>
+</tg>
+<tg xml:lang="swe">
+<t>hav</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="823">hávvde</l>
 </lg>
 <mg>
@@ -18182,6 +18198,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>reinens morgenhvile</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91430">lagos</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>proximity</t>
+</tg>
+<tg xml:lang="swe">
+<t>nära, närhet</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -22320,22 +22352,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="1254">naran</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>nail</t>
-</tg>
-<tg xml:lang="swe">
-<t>spik</t>
-</tg>
-<tg xml:lang="nob">
-<t>spiker</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="N" psdpDBno="2670">narra</l>
 </lg>
 <mg>
@@ -22587,6 +22603,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>knott (svi- knott)</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="1254">náran</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>nail</t>
+</tg>
+<tg xml:lang="swe">
+<t>spik</t>
+</tg>
+<tg xml:lang="nob">
+<t>spiker</t>
 </tg>
 </mg>
 </e>
@@ -30718,6 +30750,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91432">slöjdu</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>handicraft</t>
+</tg>
+<tg xml:lang="swe">
+<t>slöjd</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="5153">smájjle</l>
 </lg>
 <mg>
@@ -31242,6 +31290,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>halevirvel</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91435">spijjka</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>nail</t>
+</tg>
+<tg xml:lang="swe">
+<t>spik</t>
+</tg>
+<tg xml:lang="nob">
+<t>spiker</t>
 </tg>
 </mg>
 </e>
@@ -36571,6 +36635,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>horn bøyd i en halvsirkel</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91433">turissta</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>tourist</t>
+</tg>
+<tg xml:lang="swe">
+<t>turist</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>

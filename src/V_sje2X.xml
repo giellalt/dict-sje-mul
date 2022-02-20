@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2022-02-10T13:40:05+02:00
+** Generated at: 2022-02-19T12:08:52+02:00
 
 
 </sourcenote>
@@ -1625,6 +1625,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>skadeskyte</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91439">bátsadit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>drop behind</t>
+</tg>
+<tg xml:lang="swe">
+<t>bli efter</t>
+</tg>
+<tg xml:lang="nob">
+<t>bli igjen</t>
 </tg>
 </mg>
 </e>
@@ -11757,7 +11773,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>turn, translate</t>
+<t>turn, translate, convert</t>
 </tg>
 <tg xml:lang="swe">
 <t>vända, översätta</t>
@@ -11908,6 +11924,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>grynte</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91438">krájadit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>let (reindeer cows and calves) grunt</t>
+</tg>
+<tg xml:lang="swe">
+<t>låta (vajor och kalvar) grymta</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -15002,6 +15034,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="91444">nammaduvvut</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>be named</t>
+</tg>
+<tg xml:lang="swe">
+<t>benämnas</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="3235">nannodit</l>
 </lg>
 <mg>
@@ -15141,6 +15189,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>spikre</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91434">náraduvvut</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>be nailed, be plugged</t>
+</tg>
+<tg xml:lang="swe">
+<t>spikas, pluggas</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -16907,7 +16971,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="91053">rátkatjit</l>
+<l pos="V" psdpDBno="91053">rátkátjit</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -27265,6 +27329,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>selge</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="2204">vuäddjelit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>drive away, move</t>
+</tg>
+<tg xml:lang="swe">
+<t>köra iväg</t>
+</tg>
+<tg xml:lang="nob">
+<t>kjøre i veg</t>
 </tg>
 </mg>
 </e>
