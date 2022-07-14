@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2022-02-19T10:23:55+02:00
+** Generated at: 2022-07-12T14:07:27+03:00
 
 
 </sourcenote>
@@ -360,6 +360,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>alfabetet</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="3335">allasjidduk</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>tall things or person</t>
+</tg>
+<tg xml:lang="swe">
+<t>högväxt</t>
+</tg>
+<tg xml:lang="nob">
+<t>langstrakt</t>
 </tg>
 </mg>
 </e>
@@ -15289,7 +15305,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="5845">hujnik</l>
+<l pos="N" psdpDBno="5845">hujtnik</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -19394,10 +19410,10 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>Norwegian lemming</t>
+<t>lemming, Norwegian lemming</t>
 </tg>
 <tg xml:lang="swe">
-<t>fjällämmel</t>
+<t>lämmel, fjällämmel</t>
 </tg>
 <tg xml:lang="nob">
 <t>lemen</t>
@@ -28474,22 +28490,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="91051">sjaddok</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>-grown</t>
-</tg>
-<tg xml:lang="swe">
-<t>-vuxen</t>
-</tg>
-<tg xml:lang="nob">
-<t/>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="N" psdpDBno="1554">sjalbme</l>
 </lg>
 <mg>
@@ -28587,7 +28587,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="91052">sjidduk</l>
+<l pos="N" psdpDBno="91051">sjidduk</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -34160,7 +34160,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="1864">tjájdne</l>
+<l pos="N" psdpDBno="1864">tjájtne</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -36880,6 +36880,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="6554">ullgurijkak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>foreigner, person from abroad</t>
+</tg>
+<tg xml:lang="swe">
+<t>utlänning</t>
+</tg>
+<tg xml:lang="nob">
+<t>utlenning</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="2479">ullo</l>
 </lg>
 <mg>
@@ -39379,6 +39395,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="2185">vuonjes</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>mallard (duck)</t>
+</tg>
+<tg xml:lang="swe">
+<t>gräsand</t>
+</tg>
+<tg xml:lang="nob">
+<t>stokkand</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="91246">vuontses</l>
 </lg>
 <mg>
@@ -39566,6 +39598,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>gjømmeplass</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91447">vurunjis</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>raven</t>
+</tg>
+<tg xml:lang="swe">
+<t>korp</t>
+</tg>
+<tg xml:lang="nob">
+<t>ramn</t>
 </tg>
 </mg>
 </e>
