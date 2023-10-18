@@ -21,8 +21,8 @@ For the full license text, see the link above.</lic>
      <a>mailto:psdp@gmx.de</a> and/or <a>mailto:giellatekno@uit.no</a>.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
-** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2022-07-12T14:07:27+03:00
+** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from Joshua Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also https://sjelex.keeleressursid.ee
+** Generated at: 2023-08-06T09:39:30+03:00
 
 
 </sourcenote>
@@ -1453,6 +1453,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="5529">álltárriŋŋga</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>altar rail</t>
+</tg>
+<tg xml:lang="swe">
+<t>altarring</t>
+</tg>
+<tg xml:lang="nob">
+<t>alterring</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="5832">ánjas</l>
 </lg>
 <mg>
@@ -2280,6 +2296,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>anus</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91517">bajásanedäddje</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>holder, maintainer</t>
+</tg>
+<tg xml:lang="swe">
+<t>hållare</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -3597,6 +3629,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91516">biera</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>relative</t>
+</tg>
+<tg xml:lang="swe">
+<t>släkting</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="3718">bierdnes</l>
 </lg>
 <mg>
@@ -3950,6 +3998,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="3267">bismer</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>steelyard balance</t>
+</tg>
+<tg xml:lang="swe">
+<t>besman</t>
+</tg>
+<tg xml:lang="nob">
+<t>bismer</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="3696">bissjum</l>
 </lg>
 <mg>
@@ -3961,22 +4025,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>tau i lavvuduken</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="3267">bissmer</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>steelyard</t>
-</tg>
-<tg xml:lang="swe">
-<t>besman</t>
-</tg>
-<tg xml:lang="nob">
-<t>bismer</t>
 </tg>
 </mg>
 </e>
@@ -4185,6 +4233,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>brev</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91486">brihkka</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>ear tag</t>
+</tg>
+<tg xml:lang="swe">
+<t>bricka</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -4610,10 +4674,10 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>penis</t>
+<t>male genitals, penis</t>
 </tg>
 <tg xml:lang="swe">
-<t>penis</t>
+<t>könsorgan hos mannen, penis</t>
 </tg>
 <tg xml:lang="nob">
 <t>penis</t>
@@ -9044,6 +9108,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91522">färrtahatj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>each and every</t>
+</tg>
+<tg xml:lang="swe">
+<t>var och en</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="3633">färrva</l>
 </lg>
 <mg>
@@ -10804,6 +10884,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="635">gerun</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>rock ptarmigan</t>
+</tg>
+<tg xml:lang="swe">
+<t>fjällripa</t>
+</tg>
+<tg xml:lang="nob">
+<t>fjellrype</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="6052">gesitj</l>
 </lg>
 <mg>
@@ -10820,17 +10916,18 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="4902">getjukmiesse</l>
+<l pos="N" psdpDBno="91485">getjuk</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>unmarked calf</t>
+<t>unmarked</t>
 </tg>
 <tg xml:lang="swe">
-<t>omärkt kalv</t>
+<re>om renkalvar</re>
+<t>omärkt</t>
 </tg>
 <tg xml:lang="nob">
-<t>kalv som ikke er merket</t>
+<t>ikke merket</t>
 </tg>
 </mg>
 </e>
@@ -11365,7 +11462,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="3536">gierdisvuohta</l>
+<l pos="N" psdpDBno="3536">gierdesvuohta</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -11408,22 +11505,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>komse, samisk vugge</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="635">gieron</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>rock ptarmigan</t>
-</tg>
-<tg xml:lang="swe">
-<t>fjällripa</t>
-</tg>
-<tg xml:lang="nob">
-<t>fjellrype</t>
 </tg>
 </mg>
 </e>
@@ -12085,23 +12166,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="90630">glassatjalbme</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>glasses, spectacles</t>
-</tg>
-<tg xml:lang="swe">
-<re>endast flertal</re>
-<t>glasögon</t>
-</tg>
-<tg xml:lang="nob">
-<t>briller</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="N" psdpDBno="529">glássa</l>
 </lg>
 <mg>
@@ -12113,6 +12177,23 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>iskrem</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="90630">glássatjalbme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>glasses, spectacles</t>
+</tg>
+<tg xml:lang="swe">
+<re>endast flertal</re>
+<t>glasögon</t>
+</tg>
+<tg xml:lang="nob">
+<t>briller</t>
 </tg>
 </mg>
 </e>
@@ -12234,7 +12315,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>female genitals</t>
+<t>female genitals, vagina</t>
 </tg>
 <tg xml:lang="swe">
 <t>könsorgan hos kvinnan</t>
@@ -12314,7 +12395,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>female genitals</t>
+<t>female genitals, vagina</t>
 </tg>
 <tg xml:lang="swe">
 <t>könsorgan hos kvinnan</t>
@@ -12914,6 +12995,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>mo- landskap</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91482">guolgak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>furred</t>
+</tg>
+<tg xml:lang="swe">
+<t>hårigt</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -14968,6 +15065,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91525">háledimsjalljo</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>airport, airfield</t>
+</tg>
+<tg xml:lang="swe">
+<t>flygplats</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="5693">háledäddje</l>
 </lg>
 <mg>
@@ -15625,6 +15738,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91477">hällsosentrálá</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>health center; hospital</t>
+</tg>
+<tg xml:lang="swe">
+<t>hälsocentral</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="3906">härbmo</l>
 </lg>
 <mg>
@@ -15684,6 +15813,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>bjelle til hannrein</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91488">härrva</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>decoration, ornament</t>
+</tg>
+<tg xml:lang="swe">
+<t>dekoration</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -16169,7 +16314,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="4624">ieradis</l>
+<l pos="N" psdpDBno="4624">ierádis</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -16697,17 +16842,17 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="928">Jubmel</l>
+<l pos="N" psdpDBno="91465">jubmel</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>God</t>
+<t>god</t>
 </tg>
 <tg xml:lang="swe">
-<t>Gud</t>
+<t>gud</t>
 </tg>
 <tg xml:lang="nob">
-<t>Gud</t>
+<t>gud</t>
 </tg>
 </mg>
 </e>
@@ -17060,6 +17205,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>flyttveg</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91514">jådátbálges</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>migration trail</t>
+</tg>
+<tg xml:lang="swe">
+<t>flyttled, flyttstig</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -17449,6 +17610,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91475">kapälla</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>chapel</t>
+</tg>
+<tg xml:lang="swe">
+<t>kapell</t>
+</tg>
+<tg xml:lang="nob">
+<t>kapell</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="3678">karaalmatj</l>
 </lg>
 <mg>
@@ -17636,6 +17813,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>klokke, ur</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91470">klädnat</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>cloth</t>
+</tg>
+<tg xml:lang="swe">
+<t>kläde</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -18956,22 +19149,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="1031">lienastivvrá</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>provincial administration</t>
-</tg>
-<tg xml:lang="swe">
-<t>länsstyrelsen</t>
-</tg>
-<tg xml:lang="nob">
-<t>fylkesadministrsjonen</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="N" psdpDBno="90552">liepsos</l>
 </lg>
 <mg>
@@ -19390,6 +19567,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91515">luojtatgädde</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>meadow for releasing reindeer</t>
+</tg>
+<tg xml:lang="swe">
+<t>släppvall</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="3468">luojtavbádde</l>
 </lg>
 <mg>
@@ -19401,6 +19594,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>snøre mellom garn og kjepp ved isfiske</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91526">luojtádahka</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>place where reindeer are set free</t>
+</tg>
+<tg xml:lang="swe">
+<t>ställe där renarna släpps</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -20014,54 +20223,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="90620">maddar</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>root, fore-</t>
-</tg>
-<tg xml:lang="swe">
-<t>rot, ur-</t>
-</tg>
-<tg xml:lang="nob">
-<t/>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="3061">maddaráddjá</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>male ancestor</t>
-</tg>
-<tg xml:lang="swe">
-<t>stamfader</t>
-</tg>
-<tg xml:lang="nob">
-<t>stamfar</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="3062">maddaráhkká</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>female ancestor; mother earth</t>
-</tg>
-<tg xml:lang="swe">
-<t>stammoder; moder jord</t>
-</tg>
-<tg xml:lang="nob">
-<t>sammor</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="N" psdpDBno="90569">mahte</l>
 </lg>
 <mg>
@@ -20265,6 +20426,54 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>størrelse</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91521">máddar</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>root, fore-; ancestor</t>
+</tg>
+<tg xml:lang="swe">
+<t>rot, ur-</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="3061">máddaráddjá</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>male ancestor</t>
+</tg>
+<tg xml:lang="swe">
+<t>stamfader</t>
+</tg>
+<tg xml:lang="nob">
+<t>stamfar</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="3062">máddaráhkká</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>female ancestor; mother earth</t>
+</tg>
+<tg xml:lang="swe">
+<t>stammoder; moder jord</t>
+</tg>
+<tg xml:lang="nob">
+<t>sammor</t>
 </tg>
 </mg>
 </e>
@@ -21263,7 +21472,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="90283">mujjtulis</l>
+<l pos="N" psdpDBno="90283">mujjtolis</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -21658,6 +21867,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="4981">muovasbåtsoj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>light-colored reindeer</t>
+</tg>
+<tg xml:lang="swe">
+<t>ljusaktig ren</t>
+</tg>
+<tg xml:lang="nob">
+<t>lysaktig rein</t>
 </tg>
 </mg>
 </e>
@@ -22955,6 +23180,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>nød, fare</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="1259">nievsa</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>tinder, touchwood</t>
+</tg>
+<tg xml:lang="swe">
+<t>fnöske</t>
+</tg>
+<tg xml:lang="nob">
+<t>knusk (tynne spon av kjuke)</t>
 </tg>
 </mg>
 </e>
@@ -28510,10 +28751,11 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>flat area, e.g. around a Saami hut</t>
+<t>flat area</t>
 </tg>
 <tg xml:lang="swe">
-<t>slätt område, ex. omkring kåtan, tomt, gårdsplan</t>
+<re>ex. omkring kåtan, tomt, gårdsplan</re>
+<t>slätt område</t>
 </tg>
 <tg xml:lang="nob">
 <t>området omkring gammen, tomt</t>
@@ -29003,6 +29245,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91463">sjoklát</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>chocolate</t>
+</tg>
+<tg xml:lang="swe">
+<t>choklad</t>
+</tg>
+<tg xml:lang="nob">
+<t>sjokolade</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="1597">sjuhtje</l>
 </lg>
 <mg>
@@ -29190,22 +29448,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>villreinsimle</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="5851">skarro</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>place where tent cloth overlaps</t>
-</tg>
-<tg xml:lang="swe">
-<t>där tältdukar ligger omlott</t>
-</tg>
-<tg xml:lang="nob">
-<t>der teltdukene overlapper hverandre</t>
 </tg>
 </mg>
 </e>
@@ -29462,6 +29704,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>'saks' reinmerke</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="5851">skárro</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>place where tent cloth overlaps</t>
+</tg>
+<tg xml:lang="swe">
+<t>där tältdukar ligger omlott</t>
+</tg>
+<tg xml:lang="nob">
+<t>der teltdukene overlapper hverandre</t>
 </tg>
 </mg>
 </e>
@@ -31727,7 +31985,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="5919">stivvrá</l>
+<l pos="N" psdpDBno="5919">stivvra</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -31946,6 +32204,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>stolpe</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91471">stånndå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>while</t>
+</tg>
+<tg xml:lang="swe">
+<t>stund</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -34656,22 +34930,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="2593">tjierbmak</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>one-year reindeer calf in the spring</t>
-</tg>
-<tg xml:lang="swe">
-<t>ettårig renkalv på våren</t>
-</tg>
-<tg xml:lang="nob">
-<t>reinkalv, ett år</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="N" psdpDBno="3411">tjieskas</l>
 </lg>
 <mg>
@@ -35552,7 +35810,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="3926">tjåhkem</l>
+<l pos="N" psdpDBno="3926">tjåhkkem</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -36016,6 +36274,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91508">tjåsskem</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>cold</t>
+</tg>
+<tg xml:lang="swe">
+<t>kyla, köld</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="1882">tjåsskå</l>
 </lg>
 <mg>
@@ -36212,13 +36486,29 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>female servant</t>
+<t>female servant, housemaid</t>
 </tg>
 <tg xml:lang="swe">
 <t>piga, hushållshjälp</t>
 </tg>
 <tg xml:lang="nob">
 <t>tjenestepike</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="2593">tjärbmak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>one-year reindeer calf in the spring</t>
+</tg>
+<tg xml:lang="swe">
+<t>ettårig renkalv på våren</t>
+</tg>
+<tg xml:lang="nob">
+<t>reinkalv, ett år</t>
 </tg>
 </mg>
 </e>
@@ -38193,7 +38483,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="2120">vieralt</l>
+<l pos="N" psdpDBno="2120">vierált</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -40965,6 +41255,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91512">årromiednam</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>settlement area</t>
+</tg>
+<tg xml:lang="swe">
+<t>boningsland</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="3373">årromsadje</l>
 </lg>
 <mg>
@@ -41269,22 +41575,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="4237">åvdåsbádne</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>front tooth</t>
-</tg>
-<tg xml:lang="swe">
-<t>framtand</t>
-</tg>
-<tg xml:lang="nob">
-<t>framtann</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="N" psdpDBno="90372">åvlo</l>
 </lg>
 <mg>
@@ -41313,6 +41603,54 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>baugen (på båt)</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91481">åvvdåmannam</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>lower front branch on male reindeer’s antlers</t>
+</tg>
+<tg xml:lang="swe">
+<t>framtagg på renhorn</t>
+</tg>
+<tg xml:lang="nob">
+<t>framtagg på reinhorn</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="4237">åvvdåsbádne</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>front tooth</t>
+</tg>
+<tg xml:lang="swe">
+<t>framtand</t>
+</tg>
+<tg xml:lang="nob">
+<t>framtann</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="2870">åvvdåsjuällge</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>front leg/foot</t>
+</tg>
+<tg xml:lang="swe">
+<t>framben</t>
+</tg>
+<tg xml:lang="nob">
+<t>framfot</t>
 </tg>
 </mg>
 </e>
@@ -41473,22 +41811,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>(samenes) nasjonaldag</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="3579">älbmukstivvrá</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>democracy</t>
-</tg>
-<tg xml:lang="swe">
-<t>demokrati</t>
-</tg>
-<tg xml:lang="nob">
-<t>demokrati</t>
 </tg>
 </mg>
 </e>

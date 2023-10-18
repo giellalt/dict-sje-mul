@@ -21,8 +21,8 @@ For the full license text, see the link above.</lic>
      <a>mailto:psdp@gmx.de</a> and/or <a>mailto:giellatekno@uit.no</a>.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
-** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from J. Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also http://saami.uni-freiburg.de/psdp/pite-lex/
-** Generated at: 2022-07-12T17:09:49+03:00
+** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from Joshua Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also https://sjelex.keeleressursid.ee
+** Generated at: 2023-07-12T08:30:41+03:00
 
 
 </sourcenote>
@@ -2367,6 +2367,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="91478">bualládit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>ignite, light</t>
+</tg>
+<tg xml:lang="swe">
+<t>tända</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="3303">buallát</l>
 </lg>
 <mg>
@@ -2495,7 +2511,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="2664">bulledit</l>
+<l pos="V" psdpDBno="2664">bullidit</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -2778,6 +2794,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>blåse med munnen</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91497">buttkit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>tear or break off; break</t>
+</tg>
+<tg xml:lang="swe">
+<t>bryta, avbryta</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -5717,7 +5749,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="2651">fáhtadit</l>
+<l pos="V" psdpDBno="2651">fáhtádit</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -5792,6 +5824,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>ta farvel, si adjø</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="2068">fejjlut</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>be lacking, be missing</t>
+</tg>
+<tg xml:lang="swe">
+<t>fattas, saknas, brist</t>
+</tg>
+<tg xml:lang="nob">
+<t>mangle, savne</t>
 </tg>
 </mg>
 </e>
@@ -5904,6 +5952,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>røre om, vispe</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91467">filbmit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>film</t>
+</tg>
+<tg xml:lang="swe">
+<t>filma</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -10008,6 +10072,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="91489">herrvit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>decorate</t>
+</tg>
+<tg xml:lang="swe">
+<t>pryda, smycka</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="91259">hevildit</l>
 </lg>
 <mg>
@@ -10697,6 +10777,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="91490">härrvanit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>become decorated</t>
+</tg>
+<tg xml:lang="swe">
+<t>prydas, smyckas</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="6895">idjadit</l>
 </lg>
 <mg>
@@ -10772,6 +10868,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>orkesløs</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91469">ierájdahttet</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>take away</t>
+</tg>
+<tg xml:lang="swe">
+<t>ta bort</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -12809,6 +12921,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="91498">livvadallat</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>take a break from grazing; take a short rest</t>
+</tg>
+<tg xml:lang="swe">
+<t>ligga och vila lite (om idisslande djur)</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="3003">livvadit</l>
 </lg>
 <mg>
@@ -14106,6 +14234,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="91499">messit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>slaughter or slay a reindeer calf</t>
+</tg>
+<tg xml:lang="swe">
+<t>slakta eller dräpa en renkalv</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="1161">miededit</l>
 </lg>
 <mg>
@@ -14917,6 +15061,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>fjerne seg, flytte på seg</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91492">mähttsedit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>be in the forest</t>
+</tg>
+<tg xml:lang="swe">
+<t>vara i skogen</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -17371,6 +17531,23 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="91473">riŋŋgit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>call, ring</t>
+</tg>
+<tg xml:lang="swe">
+<re>(på telefonen)</re>
+<t>ringa</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="1418">risstit</l>
 </lg>
 <mg>
@@ -17639,6 +17816,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>rope, si ifra ?</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91500">ruovgastit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>grunt a bit</t>
+</tg>
+<tg xml:lang="swe">
+<t>grymta lite</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -19216,14 +19409,31 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="91491">sjnjuvadit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>burn something; light (fire)</t>
+</tg>
+<tg xml:lang="swe">
+<t>låta brinna; tända</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="1591">sjnjuvvat</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>kindle (a fire)</t>
+<t>flare up</t>
 </tg>
 <tg xml:lang="swe">
-<t>flamma upp (om eld)</t>
+<re>om eld</re>
+<t>flamma upp</t>
 </tg>
 <tg xml:lang="nob">
 <t>flamme opp (om ild)</t>
@@ -19488,6 +19698,38 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="91502">sjvahtjalit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>start moving</t>
+</tg>
+<tg xml:lang="swe">
+<t>börja röra sig</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91503">sjvahtjastit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>move a little bit</t>
+</tg>
+<tg xml:lang="swe">
+<t>röra sig lite grand</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="1605">sjvahtjat</l>
 </lg>
 <mg>
@@ -19531,6 +19773,38 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>vifte på halen, om hund</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91501">sjvatjadallat</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>let move, exercise</t>
+</tg>
+<tg xml:lang="swe">
+<t>låta röras</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91504">sjvatjatit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>move back and forth</t>
+</tg>
+<tg xml:lang="swe">
+<t>röra sig hit och dit</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -21281,22 +21555,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="1750">steggit</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>close, shut</t>
-</tg>
-<tg xml:lang="swe">
-<t>stänga, stänga av</t>
-</tg>
-<tg xml:lang="nob">
-<t>stange</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="V" psdpDBno="3357">stenntjit</l>
 </lg>
 <mg>
@@ -21580,6 +21838,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>stevneing, stevne for retten</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="1750">stäggit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>close, shut</t>
+</tg>
+<tg xml:lang="swe">
+<t>stänga, stänga av</t>
+</tg>
+<tg xml:lang="nob">
+<t>stange</t>
 </tg>
 </mg>
 </e>
@@ -22161,6 +22435,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="91505">svatjadallat</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>let move, exercise</t>
+</tg>
+<tg xml:lang="swe">
+<t>låta röras</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="2456">sviergadit</l>
 </lg>
 <mg>
@@ -22332,6 +22622,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>sykle</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91474">symboliserit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>symbolize</t>
+</tg>
+<tg xml:lang="swe">
+<t>symbolisera</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -26101,22 +26407,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="2083">várodit</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>warn</t>
-</tg>
-<tg xml:lang="swe">
-<t>varna</t>
-</tg>
-<tg xml:lang="nob">
-<t>varsle</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="V" psdpDBno="2082">várrdahit</l>
 </lg>
 <mg>
@@ -26144,6 +26434,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>verne, beskytte</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="2083">várrodit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>warn</t>
+</tg>
+<tg xml:lang="swe">
+<t>varna</t>
+</tg>
+<tg xml:lang="nob">
+<t>varsle</t>
 </tg>
 </mg>
 </e>
@@ -26369,6 +26675,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>småspringe</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91468">viegaldahttet</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>follow after, pursue</t>
+</tg>
+<tg xml:lang="swe">
+<t>förfölja, löpa efter</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -27094,6 +27416,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="90190">vuojedahttet</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>let (something) be driven or pushed</t>
+</tg>
+<tg xml:lang="swe">
+<t>låta sig driva eller köra</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="4621">vuojedit</l>
 </lg>
 <mg>
@@ -27121,6 +27459,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>kjøre</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91459">vuojŋadallat</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>relax</t>
+</tg>
+<tg xml:lang="swe">
+<t>vila</t>
+</tg>
+<tg xml:lang="nob">
+<t>hvile</t>
 </tg>
 </mg>
 </e>
