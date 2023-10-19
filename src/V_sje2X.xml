@@ -22,7 +22,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from Joshua Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also https://sjelex.keeleressursid.ee
-** Generated at: 2023-07-12T08:30:41+03:00
+** Generated at: 2023-10-19T12:33:38+03:00
 
 
 </sourcenote>
@@ -873,6 +873,54 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>være i mot noe</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="5253">bajásanedit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>hold something up, maintain</t>
+</tg>
+<tg xml:lang="swe">
+<t>hålla upp något</t>
+</tg>
+<tg xml:lang="nob">
+<t>holde opp noe</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="6229">bajássjaddat</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>grow up</t>
+</tg>
+<tg xml:lang="swe">
+<t>växa upp</t>
+</tg>
+<tg xml:lang="nob">
+<t>vokse opp</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="6104">bajásválldet</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>take up</t>
+</tg>
+<tg xml:lang="swe">
+<t>ta upp  </t>
+</tg>
+<tg xml:lang="nob">
+<t>ta opp</t>
 </tg>
 </mg>
 </e>
@@ -8069,7 +8117,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="658">gudnedit</l>
+<l pos="V" psdpDBno="658">guddnedit</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -13364,6 +13412,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>lose, vise veien</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91510">luäjjtalahttet</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>release one after another</t>
+</tg>
+<tg xml:lang="swe">
+<t>släppa en åt gången</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -19782,7 +19846,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>let move, exercise</t>
+<t>let move</t>
 </tg>
 <tg xml:lang="swe">
 <t>låta röras</t>
@@ -22439,7 +22503,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>let move, exercise</t>
+<t>let move</t>
 </tg>
 <tg xml:lang="swe">
 <t>låta röras</t>
@@ -26251,7 +26315,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>wave one's arms</t>
+<t>wave one's arms, gesticulate</t>
 </tg>
 <tg xml:lang="swe">
 <t>fäkta med armarna</t>
