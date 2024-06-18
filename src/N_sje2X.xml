@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
@@ -26,7 +26,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from Joshua Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also https://sjelex.keeleressursid.ee
-** Generated at: 2023-11-20T20:50:26+02:00
+** Generated at: 2024-06-18T14:40:33+02:00
 
 
 </sourcenote>
@@ -1473,6 +1473,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91555">ámmát</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>job, position, office</t>
+</tg>
+<tg xml:lang="swe">
+<t>tjänst, yrke</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="5832">ánjas</l>
 </lg>
 <mg>
@@ -2412,6 +2428,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>skyer</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91553">bamas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>large, warm fire</t>
+</tg>
+<tg xml:lang="swe">
+<t>stor varm eld</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -8039,6 +8071,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91536">dåjbmå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>activity, operation, work</t>
+</tg>
+<tg xml:lang="swe">
+<t>verksamhet, aktivitet, uppdrag</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="90619">dåktår</l>
 </lg>
 <mg>
@@ -8808,6 +8856,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91543">fiellas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>journney, trip, travel</t>
+</tg>
+<tg xml:lang="swe">
+<t>resa</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="5288">fijjla</l>
 </lg>
 <mg>
@@ -8899,6 +8963,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>flagg, fane</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91539">fluhttim</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>log driving, timber running</t>
+</tg>
+<tg xml:lang="swe">
+<t>flottning</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -9871,7 +9951,7 @@ For the full license text, see the link above.</lic>
 <t>shore; edge</t>
 </tg>
 <tg xml:lang="swe">
-<t>strand</t>
+<t>strand, kant</t>
 </tg>
 <tg xml:lang="nob">
 <t>strand</t>
@@ -12310,6 +12390,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>fløte</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91542">grännsa</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>border</t>
+</tg>
+<tg xml:lang="swe">
+<t>gräns</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -18796,6 +18892,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>brød</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91535">lájjdo</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>stretch, distance, course, journey</t>
+</tg>
+<tg xml:lang="swe">
+<t>vägbana, vägsträckning</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -28949,7 +29061,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>kind of whitefish</t>
+<t>European cisco, vendace</t>
 </tg>
 <tg xml:lang="swe">
 <t>sellak</t>
@@ -38776,6 +38888,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91545">vijor</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>order, context</t>
+</tg>
+<tg xml:lang="swe">
+<t>ordning, sammanhang</t>
+</tg>
+<tg xml:lang="nob">
+<t>orden, sammenheng</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="2128">vinndek</l>
 </lg>
 <mg>
@@ -41895,6 +42023,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>arr etter sår</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91544">ävvtjimus</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>challenge</t>
+</tg>
+<tg xml:lang="swe">
+<t>utmaning</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
