@@ -26,7 +26,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from Joshua Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also https://sjelex.keeleressursid.ee
-** Generated at: 2024-06-18T14:40:33+02:00
+** Generated at: 2024-12-11T10:32:24+02:00
 
 
 </sourcenote>
@@ -241,7 +241,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="90684">aktamádda</l>
+<l pos="N" psdpDBno="90684">aktamaddak</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -2277,7 +2277,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>painfulness</t>
+<t>evil, wickedness</t>
 </tg>
 <tg xml:lang="swe">
 <t>ondskefullhet</t>
@@ -2613,7 +2613,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>weekend, holidy</t>
+<t>weekend, holiday</t>
 </tg>
 <tg xml:lang="swe">
 <t>helg, veckoslut</t>
@@ -7366,6 +7366,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91565">diftåŋŋå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>diphthong</t>
+</tg>
+<tg xml:lang="swe">
+<t>diftong</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="369">digge</l>
 </lg>
 <mg>
@@ -9656,7 +9672,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="90253">garutj</l>
+<l pos="N" psdpDBno="544">garudtja</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -15646,6 +15662,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91573">hållå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>topic, subject, talking point; monologue</t>
+</tg>
+<tg xml:lang="swe">
+<t>ämne, tema; monolog</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="857">hårre</l>
 </lg>
 <mg>
@@ -19089,6 +19121,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91564">lávvlom</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>song</t>
+</tg>
+<tg xml:lang="swe">
+<t>sång</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="1027">lávvodak</l>
 </lg>
 <mg>
@@ -20355,6 +20403,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="1109">maddak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>size</t>
+</tg>
+<tg xml:lang="swe">
+<t>storlek</t>
+</tg>
+<tg xml:lang="nob">
+<t>størrelse</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="90569">mahte</l>
 </lg>
 <mg>
@@ -20535,29 +20599,13 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>lower intestine</t>
+<t>base, lower part; lower intestine</t>
 </tg>
 <tg xml:lang="swe">
-<t>renens ändtarm</t>
+<t>stam, rot; renens ändtarm</t>
 </tg>
 <tg xml:lang="nob">
 <t>endetarm</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="1109">máddak</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>size</t>
-</tg>
-<tg xml:lang="swe">
-<t>storlek</t>
-</tg>
-<tg xml:lang="nob">
-<t>størrelse</t>
 </tg>
 </mg>
 </e>
@@ -28863,6 +28911,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91296">sjaddo</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>harvest, grown things</t>
+</tg>
+<tg xml:lang="swe">
+<t>skörd</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="1554">sjalbme</l>
 </lg>
 <mg>
@@ -36353,22 +36417,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>forgreining på horn</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="2380">tjårvemáddak</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>base of reindeer antlers</t>
-</tg>
-<tg xml:lang="swe">
-<t>roten av renhorn</t>
-</tg>
-<tg xml:lang="nob">
-<t>roten på reinhorn</t>
 </tg>
 </mg>
 </e>

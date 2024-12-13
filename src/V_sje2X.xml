@@ -26,7 +26,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from Joshua Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also https://sjelex.keeleressursid.ee
-** Generated at: 2024-06-18T14:41:23+02:00
+** Generated at: 2024-10-09T07:54:07+03:00
 
 
 </sourcenote>
@@ -26090,11 +26090,11 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="91016">vanjgadahtjat</l>
+<l pos="V" psdpDBno="91016">vanjgadáhtjat</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>begin to run briefly</t>
+<t>start to run briefly</t>
 </tg>
 <tg xml:lang="swe">
 <re>om människor och djur</re>
@@ -26275,6 +26275,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="swe">
 <t/>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91451">vádtsatjáhtjat</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>start going for a walk</t>
+</tg>
+<tg xml:lang="swe">
+<t>börja promenera</t>
 </tg>
 <tg xml:lang="nob">
 <t/>
@@ -26684,6 +26700,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="91559">velgudáhtjat</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>start to turn white</t>
+</tg>
+<tg xml:lang="swe">
+<t>börja vitna</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="91353">velgudit</l>
 </lg>
 <mg>
@@ -26951,6 +26983,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>veksle</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91560">vielgeldit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>be white, appear white; shimmer</t>
+</tg>
+<tg xml:lang="swe">
+<t>vara vitt; skimra</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
