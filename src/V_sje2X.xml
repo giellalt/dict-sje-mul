@@ -26,7 +26,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from Joshua Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also https://sjelex.keeleressursid.ee
-** Generated at: 2024-10-09T07:54:07+03:00
+** Generated at: 2024-12-13T11:53:06+02:00
 
 
 </sourcenote>
@@ -7433,22 +7433,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="91066">giehtjatjit</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>see a little, check up on</t>
-</tg>
-<tg xml:lang="swe">
-<t>kolla, se efter</t>
-</tg>
-<tg xml:lang="nob">
-<t/>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="V" psdpDBno="3876">gieladuvvut</l>
 </lg>
 <mg>
@@ -8173,7 +8157,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>get wind of something</t>
+<t>get wind of something, hear about something</t>
 </tg>
 <tg xml:lang="swe">
 <t>få höra talas om, få nys om</t>
@@ -13633,7 +13617,7 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>read</t>
+<t>read; study</t>
 </tg>
 <tg xml:lang="swe">
 <t>läsa</t>
@@ -23591,17 +23575,49 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="V" psdpDBno="91568">tjálátjit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>write a bit</t>
+</tg>
+<tg xml:lang="swe">
+<t>skriva litet</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="V" psdpDBno="5190">tjáledit</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>register, record, write down</t>
+<t>register, record, write down; let write, record, register</t>
 </tg>
 <tg xml:lang="swe">
 <t>ha till att skriva</t>
 </tg>
 <tg xml:lang="nob">
 <t>ha noen til å skrive</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91567">tjálestit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>write briefly</t>
+</tg>
+<tg xml:lang="swe">
+<t>tvärskriva</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -23720,7 +23736,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="V" psdpDBno="90668">tjerrut</l>
+<l pos="V" psdpDBno="91569">tjerrut</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -23728,6 +23744,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="swe">
 <t>börja gråta</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V" psdpDBno="91570">tjerudit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>cry a little bit</t>
+</tg>
+<tg xml:lang="swe">
+<t>gråta litet</t>
 </tg>
 <tg xml:lang="nob">
 <t/>
