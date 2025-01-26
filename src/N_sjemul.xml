@@ -26,7 +26,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from Joshua Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also https://sjelex.keeleressursid.ee
-** Generated at: 2024-12-11T10:32:24+02:00
+** Generated at: 2025-01-26T17:12:49+02:00
 
 
 </sourcenote>
@@ -241,6 +241,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91588">aksjåvdnå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>auction</t>
+</tg>
+<tg xml:lang="swe">
+<t>auktion</t>
+</tg>
+<tg xml:lang="nob">
+<t>auksjon</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="90684">aktamaddak</l>
 </lg>
 <mg>
@@ -353,7 +369,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="3085">alfabähtta</l>
+<l pos="N" psdpDBno="3085">alfabiehta</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -545,6 +561,38 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="3124">apelsijdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>orange (fruit)</t>
+</tg>
+<tg xml:lang="swe">
+<t>apelsin</t>
+</tg>
+<tg xml:lang="nob">
+<t>appelsin</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91606">apotiehka</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>pharmacy</t>
+</tg>
+<tg xml:lang="swe">
+<t>apotek</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="3126">apparahtta</l>
 </lg>
 <mg>
@@ -556,22 +604,6 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>apparat</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
-<l pos="N" psdpDBno="3124">appelsijdna</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>orange (fruit)</t>
-</tg>
-<tg xml:lang="swe">
-<t>apelsin</t>
-</tg>
-<tg xml:lang="nob">
-<t>appelsin</t>
 </tg>
 </mg>
 </e>
@@ -604,6 +636,38 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>barmhjertighet</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91614">arkeolågå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>archeologist</t>
+</tg>
+<tg xml:lang="swe">
+<t>arkeolog</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91601">arkitektuvvra</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>architecture</t>
+</tg>
+<tg xml:lang="swe">
+<t>arkitektur</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -2737,7 +2801,23 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="3224">bateridja</l>
+<l pos="N" psdpDBno="3224">batteridja</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>battery</t>
+</tg>
+<tg xml:lang="swe">
+<t>batteri</t>
+</tg>
+<tg xml:lang="nob">
+<t>batteri</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91598">batterijja</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -3425,7 +3505,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="3308">bibliotähkka</l>
+<l pos="N" psdpDBno="3308">bibliotiehka</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -3953,6 +4033,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91612">biologidja</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>biology</t>
+</tg>
+<tg xml:lang="swe">
+<t>biologi</t>
+</tg>
+<tg xml:lang="nob">
+<t>biologi</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="3312">biologijja</l>
 </lg>
 <mg>
@@ -3964,6 +4060,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>biologi</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91613">biolågå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>biologist</t>
+</tg>
+<tg xml:lang="swe">
+<t>biolog</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -8567,6 +8679,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91574">farijdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>brown sugar</t>
+</tg>
+<tg xml:lang="swe">
+<t>farin</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="462">fábmo</l>
 </lg>
 <mg>
@@ -8888,6 +9016,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91602">figuvvra</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>figure</t>
+</tg>
+<tg xml:lang="swe">
+<t>figure</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="5288">fijjla</l>
 </lg>
 <mg>
@@ -9000,6 +9144,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91611">fotográfa</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>photographer</t>
+</tg>
+<tg xml:lang="swe">
+<t>fotograf</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="91337">fridjár</l>
 </lg>
 <mg>
@@ -9091,6 +9251,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>skare, hær</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91603">futuvvra</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>future</t>
+</tg>
+<tg xml:lang="swe">
+<t>framtid</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -9571,6 +9747,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>kart, umoden bær</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="90339">gardijdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>curtain</t>
+</tg>
+<tg xml:lang="swe">
+<t>gardin</t>
+</tg>
+<tg xml:lang="nob">
+<t>gardiner</t>
 </tg>
 </mg>
 </e>
@@ -10664,22 +10856,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="90339">gárdijdna</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>curtain</t>
-</tg>
-<tg xml:lang="swe">
-<t>gardin</t>
-</tg>
-<tg xml:lang="nob">
-<t>gardiner</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="N" psdpDBno="542">gárgŋel</l>
 </lg>
 <mg>
@@ -10995,6 +11171,54 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>ferdselsvei</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91599">geografidja</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>geography</t>
+</tg>
+<tg xml:lang="swe">
+<t>geografi</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91600">geografijja</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>geography</t>
+</tg>
+<tg xml:lang="swe">
+<t>geografi</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91610">geográfa</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>geographer</t>
+</tg>
+<tg xml:lang="swe">
+<t>geograf</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -17758,6 +17982,38 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91575">kamijdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>fire place, stove</t>
+</tg>
+<tg xml:lang="swe">
+<t>kamin</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91576">kanijdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>bunny</t>
+</tg>
+<tg xml:lang="swe">
+<t>kanin</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="91475">kapälla</l>
 </lg>
 <mg>
@@ -18696,6 +18952,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="swe">
 <t>lastbil</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91577">latijdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>Latin</t>
+</tg>
+<tg xml:lang="swe">
+<t>latin</t>
 </tg>
 <tg xml:lang="nob">
 <t/>
@@ -20419,6 +20691,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91578">magasijdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>magazine; storage</t>
+</tg>
+<tg xml:lang="swe">
+<t>tidskrift; magasin</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="90569">mahte</l>
 </lg>
 <mg>
@@ -21091,6 +21379,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91579">medisijdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>medicine</t>
+</tg>
+<tg xml:lang="swe">
+<t>medicin</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="90634">mehtir</l>
 </lg>
 <mg>
@@ -21460,7 +21764,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="5983">minoritähtta</l>
+<l pos="N" psdpDBno="5983">minoritiehta</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -21567,6 +21871,38 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>St. Hans, midtsommer</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91597">monsuvdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>monsoon</t>
+</tg>
+<tg xml:lang="swe">
+<t>monsun</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91580">morfijdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>morphine</t>
+</tg>
+<tg xml:lang="swe">
+<t>morfin</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -22806,6 +23142,22 @@ For the full license text, see the link above.</lic>
 <e>
 <lg>
 <l pos="N" psdpDBno="5543">nasjuvdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>nation</t>
+</tg>
+<tg xml:lang="swe">
+<t>nation</t>
+</tg>
+<tg xml:lang="nob">
+<t>nasjon</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91591">nasjåvdnå</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -24647,6 +24999,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91589">pansjåvdnå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>pension</t>
+</tg>
+<tg xml:lang="swe">
+<t>pension</t>
+</tg>
+<tg xml:lang="nob">
+<t>pensjon</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="5051">paradijjsa</l>
 </lg>
 <mg>
@@ -24680,6 +25048,22 @@ For the full license text, see the link above.</lic>
 <e>
 <lg>
 <l pos="N" psdpDBno="5053">patruvdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>cartridge, shell</t>
+</tg>
+<tg xml:lang="swe">
+<t>patron</t>
+</tg>
+<tg xml:lang="nob">
+<t>patron</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91590">patråvdnå</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -24791,6 +25175,38 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91581">pingvijdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>penguin</t>
+</tg>
+<tg xml:lang="swe">
+<t>pingvin</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91608">planiehta</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>planet</t>
+</tg>
+<tg xml:lang="swe">
+<t>planet</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="1348">plássá</l>
 </lg>
 <mg>
@@ -24883,6 +25299,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>plaster</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91582">proteijdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>protein</t>
+</tg>
+<tg xml:lang="swe">
+<t>protein</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -26283,6 +26715,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91583">rubijdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>ruby</t>
+</tg>
+<tg xml:lang="swe">
+<t>rubin</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="91281">ruddne</l>
 </lg>
 <mg>
@@ -26584,6 +27032,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>oppakning, ting til å ta med</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91584">rutijdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>routine</t>
+</tg>
+<tg xml:lang="swe">
+<t>rutin</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -27437,7 +27901,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="2358">sarrvá</l>
+<l pos="N" psdpDBno="2358">sarrva</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -27453,7 +27917,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="2976">sarrvábivvdo</l>
+<l pos="N" psdpDBno="2976">sarrvabivvdo</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -27469,7 +27933,23 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="4512">sarrvágussa</l>
+<l pos="N" psdpDBno="4403">sarvabiena</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>moose-hunting dog</t>
+</tg>
+<tg xml:lang="swe">
+<t>älghund</t>
+</tg>
+<tg xml:lang="nob">
+<t>elghund</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="4512">sarvagussa</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -27485,7 +27965,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="4513">sarrvámiesse</l>
+<l pos="N" psdpDBno="4513">sarvamiesse</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -31877,6 +32357,38 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91592">stasjuvdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>station</t>
+</tg>
+<tg xml:lang="swe">
+<t>station</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91593">stasjåvdnå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>station</t>
+</tg>
+<tg xml:lang="swe">
+<t>station</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="90474">stáddfo</l>
 </lg>
 <mg>
@@ -32224,6 +32736,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>juleost av reinmelk</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91604">struktuvvra</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>structure</t>
+</tg>
+<tg xml:lang="swe">
+<t>struktur</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -34246,7 +34774,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="1847">telefona</l>
+<l pos="N" psdpDBno="91594">telefuvdna</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -34257,6 +34785,38 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>telefon</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91595">telefåvdnå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>telephone</t>
+</tg>
+<tg xml:lang="swe">
+<t>telefon</t>
+</tg>
+<tg xml:lang="nob">
+<t>telefon</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91605">temperatuvvra</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>temperature</t>
+</tg>
+<tg xml:lang="swe">
+<t>temperatur</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -36758,6 +37318,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91609">trumpiehta</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>trumpet</t>
+</tg>
+<tg xml:lang="swe">
+<t>trumpet</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="1992">tråddjå</l>
 </lg>
 <mg>
@@ -37382,7 +37958,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="5503">universitähtta</l>
+<l pos="N" psdpDBno="5503">universitiehta</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -37809,6 +38385,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>blodmangel, lav blodverdi</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91585">vaselijdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>vaseline</t>
+</tg>
+<tg xml:lang="swe">
+<t>vaselin</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -39016,6 +39608,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91586">vitamijdna</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>vitamin</t>
+</tg>
+<tg xml:lang="swe">
+<t>vitamin</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="2136">vivva</l>
 </lg>
 <mg>
@@ -39725,13 +40333,13 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>cattle</t>
+<t>bull</t>
 </tg>
 <tg xml:lang="swe">
-<t>oxe, nötkreatur</t>
+<t>oxe, tjur</t>
 </tg>
 <tg xml:lang="nob">
-<t>okse, storfe</t>
+<t>okse</t>
 </tg>
 </mg>
 </e>
@@ -40596,6 +41204,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>tørkestativ for garn</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91617">värrde</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>advantage, value</t>
+</tg>
+<tg xml:lang="swe">
+<t>fördel, värd</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
