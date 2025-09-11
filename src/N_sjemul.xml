@@ -26,7 +26,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from Joshua Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also https://sjelex.keeleressursid.ee
-** Generated at: 2025-01-26T17:12:49+02:00
+** Generated at: 2025-06-22T12:35:27+01:00
 
 
 </sourcenote>
@@ -5234,6 +5234,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91624">båhkkå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>billy goat</t>
+</tg>
+<tg xml:lang="swe">
+<t>bock</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="3050">båhteájjge</l>
 </lg>
 <mg>
@@ -8427,13 +8443,13 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>fight</t>
+<t>fight, battle, war</t>
 </tg>
 <tg xml:lang="swe">
-<t>strid</t>
+<t>strid, kamp, krig</t>
 </tg>
 <tg xml:lang="nob">
-<t>strid</t>
+<t>strid, kjempe, krige</t>
 </tg>
 </mg>
 </e>
@@ -11305,6 +11321,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91665">gidá</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>spring (season)</t>
+</tg>
+<tg xml:lang="swe">
+<t>vår</t>
+</tg>
+<tg xml:lang="nob">
+<t>vår</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="90412">gidda</l>
 </lg>
 <mg>
@@ -11973,6 +12005,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>sommerferie</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91641">gietjajagak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>seven year old</t>
+</tg>
+<tg xml:lang="swe">
+<t>sjuåring</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -12971,6 +13019,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91658">guhkajuolgak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>log-legged</t>
+</tg>
+<tg xml:lang="swe">
+<t>långbent</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="661">guhkatjuvvde</l>
 </lg>
 <mg>
@@ -13094,6 +13158,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>ulv</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91656">gummu</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>old woman</t>
+</tg>
+<tg xml:lang="swe">
+<t>gumma</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -16866,10 +16946,10 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>one-year-old</t>
+<t>one-year-old; -year-old</t>
 </tg>
 <tg xml:lang="swe">
-<t>ettåring</t>
+<t>ettåring; -åring</t>
 </tg>
 <tg xml:lang="nob">
 <t>ettåring</t>
@@ -18094,6 +18174,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="5201">káffakåhppå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>coffee cup</t>
+</tg>
+<tg xml:lang="swe">
+<t>kaffekopp</t>
+</tg>
+<tg xml:lang="nob">
+<t>kaffekopp</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="972">káffavuassa</l>
 </lg>
 <mg>
@@ -18511,6 +18607,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="3752">kruvvto</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>pot, pan</t>
+</tg>
+<tg xml:lang="swe">
+<t>gryta</t>
+</tg>
+<tg xml:lang="nob">
+<t>gryte</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="982">kruähkke</l>
 </lg>
 <mg>
@@ -18528,22 +18640,6 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="3752">kryhtto</l>
-</lg>
-<mg>
-<tg xml:lang="eng">
-<t>pot, pan</t>
-</tg>
-<tg xml:lang="swe">
-<t>gryta</t>
-</tg>
-<tg xml:lang="nob">
-<t>gryte</t>
-</tg>
-</mg>
-</e>
-<e>
-<lg>
 <l pos="N" psdpDBno="984">krähppuk</l>
 </lg>
 <mg>
@@ -18555,6 +18651,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>hanske</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91633">krämma</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>cream</t>
+</tg>
+<tg xml:lang="swe">
+<t>kräm</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -18944,7 +19056,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="90741">lastabijjla</l>
+<l pos="N" psdpDBno="90741">lastbijjla</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -21603,6 +21715,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91648">mierre</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>border, amount, degree, goal, extent</t>
+</tg>
+<tg xml:lang="swe">
+<t>gräns, mål, antal, mängd, utsträkning</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="90434">mierrem</l>
 </lg>
 <mg>
@@ -24218,10 +24346,10 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>tongue, clapper in a reindeer bell</t>
+<t>tongue; clapper in a reindeer bell</t>
 </tg>
 <tg xml:lang="swe">
-<t>tunga, kläpp i renskälla</t>
+<t>tunga; kläpp i renskälla</t>
 </tg>
 <tg xml:lang="nob">
 <t>tunge</t>
@@ -25635,6 +25763,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>kompis, kamerat, venn</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91694">rádio</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>radio</t>
+</tg>
+<tg xml:lang="swe">
+<t>radio</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -30785,6 +30929,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91683">skuhterväddja</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>snowmobile trail</t>
+</tg>
+<tg xml:lang="swe">
+<t>snöskoterspår</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="3511">skulldik</l>
 </lg>
 <mg>
@@ -32000,6 +32160,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>i uorden, rot</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91670">sovsähkka</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>sleeping bag</t>
+</tg>
+<tg xml:lang="swe">
+<t>sovsäck</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -33392,6 +33568,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>simle som forlater sin nyfødde kalv</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91653">suojja</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>net hook</t>
+</tg>
+<tg xml:lang="swe">
+<t>nätsticka</t>
+</tg>
+<tg xml:lang="nob">
+<t>vevskje og skyttel</t>
 </tg>
 </mg>
 </e>
@@ -35174,6 +35366,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" psdpDBno="91667">tjáhtje</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>water</t>
+</tg>
+<tg xml:lang="swe">
+<t>vatten</t>
+</tg>
+<tg xml:lang="nob">
+<t>vann</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" psdpDBno="1861">tjáhtse</l>
 </lg>
 <mg>
@@ -35366,7 +35574,7 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
-<l pos="N" psdpDBno="5178">tjátselihtte</l>
+<l pos="N" psdpDBno="5178">tjátslihtte</l>
 </lg>
 <mg>
 <tg xml:lang="eng">
@@ -35905,6 +36113,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>brunstsmak og -lukt (på kjøtt)</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91691">tjivvga</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>baby animal</t>
+</tg>
+<tg xml:lang="swe">
+<t>valp, djurunge</t>
+</tg>
+<tg xml:lang="nob">
+<t>dyreunge</t>
 </tg>
 </mg>
 </e>
@@ -38138,13 +38362,29 @@ For the full license text, see the link above.</lic>
 </lg>
 <mg>
 <tg xml:lang="eng">
-<t>like before</t>
+<t>like before, previous</t>
 </tg>
 <tg xml:lang="swe">
 <t>som förr</t>
 </tg>
 <tg xml:lang="nob">
 <t>som før</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91652">uvdutjájjge</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>former times</t>
+</tg>
+<tg xml:lang="swe">
+<t>förr i tiden</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -38385,6 +38625,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>blodmangel, lav blodverdi</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91687">varrodak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>greeting</t>
+</tg>
+<tg xml:lang="swe">
+<t>hälsning</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -39571,6 +39827,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>storm</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" psdpDBno="91688">virrudak</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>greeting</t>
+</tg>
+<tg xml:lang="swe">
+<t>hälsning</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>

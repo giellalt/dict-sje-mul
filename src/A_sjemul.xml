@@ -26,7 +26,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from Joshua Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also https://sjelex.keeleressursid.ee
-** Generated at: 2025-01-26T17:16:21+02:00
+** Generated at: 2025-06-22T11:48:58+01:00
 
 
 </sourcenote>
@@ -685,6 +685,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>full</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="91662">dijmátj</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>last year's</t>
+</tg>
+<tg xml:lang="swe">
+<t>fjolårets</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -1796,6 +1812,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="A" psdpDBno="1111">máhttelis</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>possible</t>
+</tg>
+<tg xml:lang="swe">
+<t>möjligt</t>
+</tg>
+<tg xml:lang="nob">
+<t>mulig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="A" psdpDBno="90804">mielagatj</l>
 </lg>
 <mg>
@@ -2223,6 +2255,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>stillferdig, fåmælt</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="6642">sjimuk</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>similar</t>
+</tg>
+<tg xml:lang="swe">
+<t>liknande</t>
+</tg>
+<tg xml:lang="nob">
+<t>lignende</t>
 </tg>
 </mg>
 </e>
@@ -2868,6 +2916,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="A" psdpDBno="91690">vienagis</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>friendly</t>
+</tg>
+<tg xml:lang="swe">
+<t>vänlig</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="A" psdpDBno="91154">vierre</l>
 </lg>
 <mg>
@@ -3023,6 +3087,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>uten flaks, ulykkelig</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="A" psdpDBno="2333">vuostas</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t>first</t>
+</tg>
+<tg xml:lang="swe">
+<t>första</t>
+</tg>
+<tg xml:lang="nob">
+<t>første</t>
 </tg>
 </mg>
 </e>

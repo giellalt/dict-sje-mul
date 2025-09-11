@@ -26,7 +26,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
 ** This is a GENERATED FILE which means any changes you make manually will probably be overwritten later. This xml file was extracted from Joshua Wilbur's Pite Saami lexcial database (FileMaker Pro). Translations and item numbers are from that database; see also https://sjelex.keeleressursid.ee
-** Generated at: 2025-01-26T17:16:03+02:00
+** Generated at: 2025-06-19T19:01:52+02:00
 
 
 </sourcenote>
@@ -41,6 +41,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="swe">
 <t>Vaksamnjárgga</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91692">Alek</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Alek</t>
 </tg>
 <tg xml:lang="nob">
 <t/>
@@ -90,6 +106,38 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="swe">
 <t>Alits</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91661">Arne</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Arne</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91676">Astor</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Astor</t>
 </tg>
 <tg xml:lang="nob">
 <t/>
@@ -452,6 +500,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" type="Prop" psdpDBno="91677">Birgit</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Birgit</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" type="Prop" psdpDBno="90939">Birrumaiedno</l>
 </lg>
 <mg>
@@ -791,6 +855,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" type="Prop" psdpDBno="91673">Giddun</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Gitton</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" type="Prop" psdpDBno="3401">Guarrbanjárrga</l>
 </lg>
 <mg>
@@ -896,6 +976,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="swe">
 <t>Halvar</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91631">Henning</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Henning</t>
 </tg>
 <tg xml:lang="nob">
 <t/>
@@ -1146,6 +1242,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" type="Prop" psdpDBno="91678">Kjälla</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Kjell</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" type="Prop" psdpDBno="91437">Krádja</l>
 </lg>
 <mg>
@@ -1290,6 +1402,38 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" type="Prop" psdpDBno="91640">Låddávvre</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Låddávvre</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91668">Låddejávvre</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Låddávvre</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" type="Prop" psdpDBno="6035">Lässe</l>
 </lg>
 <mg>
@@ -1301,6 +1445,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>Lasse, Lars</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91679">Lövnäsa</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Lövnäs</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -1451,6 +1611,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" type="Prop" psdpDBno="91674">Norrabergnäsa</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Norra Bergnäs</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" type="Prop" psdpDBno="91161">Norrbotten</l>
 </lg>
 <mg>
@@ -1547,6 +1723,23 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" type="Prop" psdpDBno="91651">Rahppen</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<re>sjö; by (Lövnäs)</re>
+<t>Rahppen</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" type="Prop" psdpDBno="90695">Rasska</l>
 </lg>
 <mg>
@@ -1612,6 +1805,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" type="Prop" psdpDBno="91625">Rissájåhkå</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Rissájåhkå</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" type="Prop" psdpDBno="1436">Ruopsok</l>
 </lg>
 <mg>
@@ -1640,6 +1849,38 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="nob">
 <t>Tromsø</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91680">Rädepvuobme</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Rädepvuobme</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91650">Sáddegávva</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Sáddegávva</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
 </tg>
 </mg>
 </e>
@@ -1721,6 +1962,22 @@ For the full license text, see the link above.</lic>
 <tg xml:lang="swe">
 <re>fjäll nära Mávas</re>
 <t>Sávvlo</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91634">Signe</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Signe</t>
 </tg>
 <tg xml:lang="nob">
 <t/>
@@ -1970,6 +2227,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" type="Prop" psdpDBno="91659">Tage</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Tage</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" type="Prop" psdpDBno="6585">Tjidtják</l>
 </lg>
 <mg>
@@ -1978,6 +2251,39 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="swe">
 <t>Tjidtjak, 'moderfjället'</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91682">Tjivvli</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Övernäs</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91681">Tjuajjvá</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<re>sjö norr om Tjeggelvas</re>
+<t>Tjuojvvá</t>
 </tg>
 <tg xml:lang="nob">
 <t/>
@@ -2027,6 +2333,38 @@ For the full license text, see the link above.</lic>
 <tg xml:lang="swe">
 <re>sjö längs Piteälven</re>
 <t>Tjieggelvas</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91660">Tora</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Tora</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91675">Valle</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Valle</t>
 </tg>
 <tg xml:lang="nob">
 <t/>
@@ -2093,6 +2431,22 @@ For the full license text, see the link above.</lic>
 <tg xml:lang="swe">
 <re>vid silvervägen, nästan i Norge</re>
 <t>vilstugan</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91654">Vistek</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Vistek</t>
 </tg>
 <tg xml:lang="nob">
 <t/>
@@ -2182,6 +2536,22 @@ For the full license text, see the link above.</lic>
 </e>
 <e>
 <lg>
+<l pos="N" type="Prop" psdpDBno="91655">Västerås</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Västerås</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
 <l pos="N" type="Prop" psdpDBno="2811">Åjjvák</l>
 </lg>
 <mg>
@@ -2190,6 +2560,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="swe">
 <t>Uddjaur</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91684">Ånäsa</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Ånäset</t>
 </tg>
 <tg xml:lang="nob">
 <t/>
@@ -2222,6 +2608,22 @@ For the full license text, see the link above.</lic>
 </tg>
 <tg xml:lang="swe">
 <t>Änntse, Ánnda, Anders</t>
+</tg>
+<tg xml:lang="nob">
+<t/>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="N" type="Prop" psdpDBno="91669">Östen</l>
+</lg>
+<mg>
+<tg xml:lang="eng">
+<t/>
+</tg>
+<tg xml:lang="swe">
+<t>Östen</t>
 </tg>
 <tg xml:lang="nob">
 <t/>
