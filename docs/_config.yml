@@ -1,3 +1,14 @@
-theme: jekyll-theme-minimal
+remote_theme: giellalt/jekyll-theme-giellalt@main
 title: Dictionary for Pite Saami ⇒ Multiple languages
 description: An electronic dictionary from Pite Saami to Multiple languages
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jemoji
+
+defaults:
+  - scope: { path: "" }
+    values:
+      layout: minimal
